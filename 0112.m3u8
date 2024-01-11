@@ -70,9 +70,9 @@ http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=192
 http://live.cooltv.top/tv/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="133" tvg-name="無綫財經·體育·資訊台" tvg-logo="https://s2.loli.net/2023/02/05/t7Jq4YCP1skzhNu.jpg" group-title="粤语频道",無綫財經·體育·資訊台
 http://live.cooltv.top/tv/tvb.php?id=2&hq
-#EXTINF:-1 tvg-id="416" tvg-name="無綫財經·體育·資訊台" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/J2.png" group-title="粤语频道",J2
+#EXTINF:-1 tvg-id="416" tvg-name="無綫財經·體育·資訊台" tvg-logo="https://s2.loli.net/2023/09/16/9zbEKSUGl5ixcfq.png" group-title="粤语频道",J2
 http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
-#EXTINF:-1 tvg-id="408" tvg-name="無綫財經·體育·資訊台" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/viutv.png" group-title="粤语频道",VIU TV
+#EXTINF:-1 tvg-id="408" tvg-name="無綫財經·體育·資訊台" tvg-logo="https://s2.loli.net/2024/01/11/GuWhxj5c2fspLN8.png" group-title="粤语频道",VIU TV
 http://198.16.100.90:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
 
 
