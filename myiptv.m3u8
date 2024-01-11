@@ -90,8 +90,8 @@ http://198.16.100.90:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=192
 
 
 
-
-
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" group-title="中国频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" group-title="中国频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV4
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" group-title="中国频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV9
@@ -173,8 +173,6 @@ https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="英语频道" tvg-logo="https://s2.loli.net/2023/07/30/6ARUSd4g58Ls1rQ.png",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="英语频道" tvg-logo="https://s2.loli.net/2023/09/19/A8vE2apGnkH3zJD.png",FOX News
-http://198.16.100.90:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
 #EXTINF:-1 group-title="英语频道" tvg-logo="https://s2.loli.net/2023/09/18/dcTXvMx6DrGfulS.png",itv 1
 http://198.16.100.90:8278/itv1_antik/playlist.m3u8?tid=MA7A3116345831163458&ct=19254&tsum=fe64dc99ba95f220bea2a2a29319b065
 #EXTINF:-1 tvg-id="" group-title="英语频道" tvg-logo="https://s2.loli.net/2023/09/19/2iB6v37Kc5xgDjz.png",Guardian TV
