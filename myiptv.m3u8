@@ -8,8 +8,21 @@ http://210.210.155.37/uq2663/h/h157/index2.m3u8
 #EXTINF:-1 tvg-id="143 tvg-name="凤凰香港台" tvg-logo="https://s2.loli.net/2023/01/07/gUnrS46sjVlCuwf.png" group-title="华语频道",凤凰香港台
 http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
 
+
+
+
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻"group-title="华语频道" tvg-logo="https://s2.loli.net/2023/07/30/7d8oxjNfXwMrK1i.jpg",寰宇新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="中天新闻"group-title="华语频道" tvg-logo="https://s2.loli.net/2024/01/09/VujlHZBRWKsEMq5.jpg",中天新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 tvg-id="7176" group-title="华语频道" tvg-logo="https://s2.loli.net/2023/09/18/WIh4f1lHFexCvNA.jpg",中视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+
+#EXTINF:-1 tvg-id="6143" group-title="华语频道" tvg-logo="https://s2.loli.net/2024/01/09/nCXOKyeUlw7qHMI.png",台视新闻台
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 tvg-id="6071" group-title="华语频道" tvg-logo="https://s2.loli.net/2024/01/09/dEt5CLrg1R76m3s.jpg",民视新闻台
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 tvg-id="6072" tvg-name="三立新闻"group-title="华语频道" tvg-logo="https://s2.loli.net/2024/01/11/FABOQutdEghp2y8.jpg",三立iNews
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 #EXTINF:-1 tvg-id="6068" tvg-name="年代新闻"group-title="华语频道" tvg-logo="https://s2.loli.net/2023/09/16/tSVMxdykqw4pL7U.png",年代新闻
@@ -22,15 +35,7 @@ http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MD1D1428989414289894&ct=193
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 tvg-id="6076" tvg-name="寰宇新闻"group-title="华语频道" tvg-logo="https://s2.loli.net/2023/09/17/rhpynCNmH7VXcZ8.jpg",非凡新闻
 http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
-#EXTINF:-1 tvg-id="" tvg-name="中天新闻"group-title="华语频道" tvg-logo="https://s2.loli.net/2024/01/09/VujlHZBRWKsEMq5.jpg",中天新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 tvg-id="7176" group-title="华语频道" tvg-logo="https://s2.loli.net/2023/09/18/WIh4f1lHFexCvNA.jpg",中视新闻
-http://198.16.100.90:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
 
-#EXTINF:-1 tvg-id="6143" group-title="华语频道" tvg-logo="https://s2.loli.net/2024/01/09/nCXOKyeUlw7qHMI.png",台视新闻台
-http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 tvg-id="6071" group-title="华语频道" tvg-logo="https://s2.loli.net/2024/01/09/dEt5CLrg1R76m3s.jpg",民视新闻台
-http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 tvg-id="6073" group-title="华语频道" tvg-logo="https://s2.loli.net/2023/07/30/cWbO3RrVMFu9fnI.png",TVBS新闻台
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 tvg-id="7134" group-title="华语频道" tvg-logo="https://s2.loli.net/2023/09/18/xlZMqOgTr9X7FDj.png",民视台湾台
@@ -104,13 +109,21 @@ https://iptv.luas.edu.cn/liverespath/73aedb8ffd21b3b8afe4664591d4cb3a5cced827/bd
 https://iptv.luas.edu.cn/liverespath/f650ba03bb4883fe67a1fb7c193a00a4c0c93881/a2d2162784-0-0-56b13eabd03cd0ff33e9bc019e1fb073/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="辽宁卫视" group-title="中国频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",湖南卫视
 https://iptv.luas.edu.cn/liverespath/9b1ccba5a2c611bb5d7c96243695572090cca5fd/3777bfb47d-0-0-654e705fbb80feea4c6f5105072a6d33/index.m3u8
-#EXTINF:-1 tvg-id="891" group-title="中国频道" tvg-logo="https://s2.loli.net/2024/01/09/5MIeuDKQjkmsRWS.png",CGTN纪录片
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
+
 #EXTINF:-1 tvg-id="20" group-title="中国频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png",CGTN英语
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="中国频道" tvg-logo="https://s2.loli.net/2023/01/26/9GSIxeJR1PcEi6T.png",CGTN俄语
 http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 
+#EXTINF:-1 group-title="中国频道" tvg-logo="https://s2.loli.net/2024/01/13/fdNDJoZ4eacXqIp.png",CGTN法语
+https://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 group-title="中国频道" tvg-logo="https://s2.loli.net/2024/01/13/efDJZSrNHiXsE9h.png",CGTN西班牙语
+http://livees.cgtn.com/500e/prog_index.m3u8
+#EXTINF:-1 group-title="中国频道" tvg-logo="https://s2.loli.net/2024/01/13/CutH7FhTgdPW5as.png",CGTN阿拉伯语
+http://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 tvg-id="891" group-title="中国频道" tvg-logo="https://s2.loli.net/2024/01/09/5MIeuDKQjkmsRWS.png",CGTN纪录片
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 
 
