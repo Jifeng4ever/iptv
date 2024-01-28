@@ -21,6 +21,9 @@ http://50.7.238.114:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&c
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 
 
+#EXTINF:-1 tvg-id="6030" group-title="华语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png",华视
+http://50.7.238.114:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6
+
 #EXTINF:-1 tvg-id="6026" group-title="华语频道" tvg-logo="https://s2.loli.net/2024/01/28/CqdMnLbDXQpgrRW.jpg",台视
 http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
 #EXTINF:-1 tvg-id="6143" group-title="华语频道" tvg-logo="https://s2.loli.net/2024/01/09/nCXOKyeUlw7qHMI.png",台视新闻台
@@ -127,6 +130,8 @@ http://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 tvg-id="891" group-title="中国频道" tvg-logo="https://s2.loli.net/2024/01/09/5MIeuDKQjkmsRWS.png",CGTN纪录片
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
+
+
 #EXTINF:-1 tvg-id="126" tvg-name="无线新闻台" tvg-logo="https://s2.loli.net/2023/08/06/dbWMTuQRxKsZ2y1.png" group-title="粤语频道",翡翠台
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻台" tvg-logo="https://s2.loli.net/2023/01/27/HaCP8dqblvYyBXm.jpg" group-title="粤语频道",无线新闻台
@@ -137,8 +142,10 @@ http://live.cooltv.top/tv/tvb.php?id=2&hq
 http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
 #EXTINF:-1 tvg-id="408" tvg-name="無綫財經·體育·資訊台" tvg-logo="https://s2.loli.net/2024/01/11/GuWhxj5c2fspLN8.png" group-title="粤语频道",VIU TV
 http://198.16.100.90:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
-
-
+#EXTINF:-1 tvg-id="" tvg-name="無綫財經·體育·資訊台" tvg-logo="https://s2.loli.net/2024/01/28/iXZMjfNUBng1PtO.png" group-title="粤语频道",RTHK 32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="無綫財經·體育·資訊台" tvg-logo="https://s2.loli.net/2024/01/28/5Fw2IMO9zlpbKB4.png" group-title="粤语频道",RTHK 31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 
 
 
@@ -319,12 +326,6 @@ https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="9999" group-title="法语频道" tvg-logo="https://s2.loli.net/2023/09/22/1zbV5a6CvckNFSh.jpg",Paris Premiere
 https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8
-
-
-#EXTINF:-1 group-title="马来语频道" tvg-logo="https://s2.loli.net/2023/09/18/aQ6wFoLNuAlOHXs.png",Astro Awani
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
-
-
 
 
 
