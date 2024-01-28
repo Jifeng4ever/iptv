@@ -71,6 +71,8 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" tvg-id="6089" tvg-name="CINEMAX" group-title="台湾频道",CINEMAX
 http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
+
+
 #EXTINF:-1 tvg-id="6152" group-title="台湾频道" tvg-logo="https://s2.loli.net/2023/09/18/Qdh8S2tlkyexmZp.jpg",HBO HD
 http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 #EXTINF:-1 tvg-id="6149" group-title="台湾频道" tvg-logo="https://s2.loli.net/2023/09/18/hDPBlvgUmen6xIi.png",Warner TV
@@ -240,7 +242,10 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-sa
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="6114" group-title="英语频道" tvg-logo="https://s2.loli.net/2024/01/09/62WAk5PLaGnMIt8.png",MTV
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-#EXTINF:-1 group-title="英语频道" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/512px-NASA_TV.svg.png",NASA TV (720p)
+
+
+
+#EXTINF:-1 group-title="英语频道" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/512px-NASA_TV.svg.png",NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
 
@@ -249,15 +254,19 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 
 
 
-
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 
 #EXTINF:-1 tvg-id="7192" tvg-name="CCTV5" group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_sports2.png",爱尔达体育2
 http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5" group-title="体育频道" tvg-logo="https://s2.loli.net/2024/01/28/FYu7KoEV5TzWSBs.png",爱尔达体育4
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="体育频道" tvg-logo="https://s2.loli.net/2024/01/28/FYu7KoEV5TzWSBs.png",爱尔达体育4
 http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
+
+
 #EXTINF:-1 group-title="体育频道" tvg-logo="https://s2.loli.net/2023/02/18/EcNs5CMfpTxdZ79.png",Dubai Sports 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="体育频道" tvg-logo="https://s2.loli.net/2024/01/09/Kr82cHaMudlJ3hm.png",Dubai Sports 2
