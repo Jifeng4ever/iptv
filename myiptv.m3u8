@@ -43,6 +43,8 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683118
 #EXTINF:-1 tvg-id="408" tvg-name="無綫財經·體育·資訊台" tvg-logo="https://s2.loli.net/2024/01/11/GuWhxj5c2fspLN8.png" group-title="香港频道",VIU TV
 http://198.16.100.90:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
+#EXTINF:-1 tvg-id="" tvg-name="無綫財經·體育·資訊台" tvg-logo="https://sm.ms/image/yZYtD1GQK5HUCiF" group-title="香港频道",VIU6 TV
+http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
 
 
 #EXTINF:-1 tvg-id="" tvg-name="無綫財經·體育·資訊台" tvg-logo="https://s2.loli.net/2024/01/28/5Fw2IMO9zlpbKB4.png" group-title="香港频道",RTHK 31
@@ -189,7 +191,7 @@ https://iptv.luas.edu.cn/liverespath/f650ba03bb4883fe67a1fb7c193a00a4c0c93881/a2
 https://iptv.luas.edu.cn/liverespath/9b1ccba5a2c611bb5d7c96243695572090cca5fd/3777bfb47d-0-0-654e705fbb80feea4c6f5105072a6d33/index.m3u8
 
 
-#EXTINF:-1 tvg-id="20" group-title="中国频道" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CGTN.png",CGTN
+#EXTINF:-1 tvg-id="20" group-title="中国频道" tvg-logo="https://s2.loli.net/2024/01/31/GkJFVxhRtPXbgCK.png",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="中国频道" tvg-logo="https://s2.loli.net/2023/01/26/9GSIxeJR1PcEi6T.png",CGTN俄语
 http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
@@ -216,12 +218,12 @@ http://198.16.100.90:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=1922
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="英语频道",CNN2
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="664" group-title="英语频道" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/BBCWORLDNEWSASIA.png",BBC World News
+#EXTINF:-1 tvg-id="664" group-title="英语频道" tvg-logo="https://s2.loli.net/2024/01/31/y1GeLn4atbD6FQK.png",BBC World News
 http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
 
-#EXTINF:-1 tvg-id="664" group-title="英语频道" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/BBCWORLDNEWSASIA.png",BBC World News
+#EXTINF:-1 tvg-id="664" group-title="英语频道" tvg-logo="https://s2.loli.net/2024/01/31/y1GeLn4atbD6FQK.png",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 tvg-id="664" group-title="英语频道" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/BBCWORLDNEWSASIA.png",BBC World News HD
+#EXTINF:-1 tvg-id="664" group-title="英语频道" tvg-logo="https://s2.loli.net/2024/01/31/y1GeLn4atbD6FQK.png",BBC World News HD
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=75865
 #EXTINF:-1 tvg-id="" group-title="英语频道" tvg-logo="https://s2.loli.net/2024/01/28/r82bLRXPUZ7OCwQ.jpg",BBC ONE
 http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MA4A9532597395325973&ct=19230&tsum=730628fd737b265598d82053feb30902
@@ -313,7 +315,7 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 
-#EXTINF:-1 tvg-id="7192" tvg-name="CCTV5" group-title="体育频道" tvg-logo="https://s2.loli.net/2024/01/28/NZmWzulhvrY7XIj.png,爱尔达体育2
+#EXTINF:-1 tvg-id="7192" tvg-name="CCTV5" group-title="体育频道" tvg-logo="https://s2.loli.net/2024/01/31/l1tJZLnzPR7UjBN.png",爱尔达体育2
 http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
 
 
