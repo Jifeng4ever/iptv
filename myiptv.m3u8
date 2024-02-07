@@ -93,7 +93,8 @@ http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&c
 http://198.16.100.90:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntd-tv-us.png"新唐电视台
+http://cnhls.ntdtv.com/cn/live400/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2022/11/09/ZvWKuxNhG68dSzl.png",镜新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/01/09/VujlHZBRWKsEMq5.jpg",中天新闻
@@ -182,6 +183,7 @@ https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" group-title="中国频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV13
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+
 
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV13" group-title="中国频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV14
 https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
@@ -533,14 +535,31 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u
 
 #EXTINF:-1 tvg-id="7110" group-title="日语频道" tvg-logo="https://s2.loli.net/2023/09/16/Ps5UK3gqxpCej6a.png",NHK Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="日语频道" tvg-logo="https://s2.loli.net/2024/02/07/JdlcC2rRUe9AnFG.png",NHK BSP4K
+https://list.iptvcat.com/my_list/s/6c83e24cf9f6215ba65e6ffe15aa68fc.m3u8
+#EXTINF:-1 tvg-id="" group-title="日语频道" tvg-logo="https://s2.loli.net/2023/01/25/Y7pNAsSc5w4JUD9.png",NHK G
+https://list.iptvcat.com/my_list/s/6843b74b145802ca90246abf70aa962b.m3u8
+#EXTINF:-1 tvg-id="" group-title="日语频道" tvg-logo="https://s2.loli.net/2023/01/26/eqlJtKHUsa49Igo.png",NHK E
+https://list.iptvcat.com/my_list/s/f8ca65d00ffcea0bc1f6e6571edfdc90.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="日语频道" tvg-logo="https://s2.loli.net/2023/07/31/orLaDkZ5UC3RAzj.jpg",NTV NEWS
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="日语频道" tvg-logo="https://s2.loli.net/2024/02/07/mpOrZ6KAuHSNDG8.jpg",Nippon TV
+https://list.iptvcat.com/my_list/s/32ac071ed7337b85457322e1ea51cc0e.m3u8
 #EXTINF:-1 group-title="日语频道" tvg-logo="https://s2.loli.net/2023/09/16/bPxMjEZOu7JtKla.png",TBS News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
 #EXTINF:-1 group-title="日语频道" tvg-logo="https://s2.loli.net/2023/09/16/TLy639PbXldCsnt.jpg",ANN NEWS  
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
 #EXTINF:-1 group-title="日语频道" tvg-logo="https://s2.loli.net/2023/01/25/fdrBQS3YKqxj8Ic.png",Fuji TV
 https://fujitv4.mov3.co/hls/fujitv.m3u8
+
+#EXTINF:-1 group-title="日语频道" tvg-logo="https://s2.loli.net/2023/01/25/EXM5i1o3UGTH4DF.jpg",BS Asahi
+https://list.iptvcat.com/my_list/s/4c479f7c1d548592afa5ae60e836877e.m3u8
+#EXTINF:-1 group-title="日语频道" tvg-logo="https://s2.loli.net/2023/01/26/ugdYvFPxW4DG9fA.png",BS Fuji
+https://list.iptvcat.com/my_list/s/00c1344ec540c5af044cd3df96e8acd0.m3u8
+#EXTINF:-1 group-title="日语频道" tvg-logo="https://s2.loli.net/2023/01/25/umkpGwQobJSe9t5.png",BS Tokyo
+https://list.iptvcat.com/my_list/s/e435cc7ca5fd6eac84db1f958c24af34.m3u8
 
 
 
