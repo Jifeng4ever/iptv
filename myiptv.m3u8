@@ -281,7 +281,7 @@ http://38.96.178.201:80/live/FOXSPORTS2/index.m3u8
 
 #EXTINF:-1 tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://epg.112114.xyz/logo/KBSNEWS.png" group-title="国际频道",KBS世界
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-#EXTINF:-1 group-title="韩语频道" tvg-logo="https://s2.loli.net/2023/07/30/iGNJPKTXcU1nuW5.png",Arirang Korea
+#EXTINF:-1 group-title="国际频道" tvg-logo="https://s2.loli.net/2023/07/30/iGNJPKTXcU1nuW5.png",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 
 
@@ -314,7 +314,7 @@ http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1 tvg-id="Disney" tvg-name="Disney" tvg-logo="https://s2.loli.net/2024/02/07/KXmz8v751rYHdpy.png" group-title="国际频道",ESPN HD
 http://38.96.178.201:80/live/ESPNHD/index.m3u8
 
-#EXTINF:-1,tvg-id="Disney,XD",tvg-name="Disney,XD",tvg-logo="https://s2.loli.net/2024/02/07/ofaIds9qcUwgY1M.png",group-title="ESPN2 HD
+#EXTINF:-1,tvg-id="Disney,XD",tvg-name="Disney,XD",tvg-logo="https://s2.loli.net/2024/02/07/ofaIds9qcUwgY1M.png",group-title="国际频道",ESPN2 HD
 http://38.96.178.201:80/live/ESPN2/index.m3u8
 
 
@@ -531,27 +531,19 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u
 
 
 
-
+#EXTINF:-1 tvg-id="7110" group-title="日语频道" tvg-logo="https://s2.loli.net/2023/09/16/Ps5UK3gqxpCej6a.png",NHK Premium
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 tvg-id="" group-title="日语频道" tvg-logo="https://s2.loli.net/2023/07/31/orLaDkZ5UC3RAzj.jpg",NTV NEWS
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-
-#EXTINF:-1 group-title="日语频道" tvg-logo="https://s2.loli.net/2023/09/16/sCkDAIcqZ6fPrl5.png",朝日新闻
-https://ythls.onrender.com/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
-
-#EXTINF:-1 group-title="日语频道" tvg-logo="https://s2.loli.net/2023/01/26/fcNhHST3vLMO5Pg.png",北海道新闻
-https://ythls.onrender.com/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8
+#EXTINF:-1 group-title="日语频道" tvg-logo="https://s2.loli.net/2023/09/16/bPxMjEZOu7JtKla.png",TBS News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
 #EXTINF:-1 group-title="日语频道" tvg-logo="https://s2.loli.net/2023/09/16/TLy639PbXldCsnt.jpg",ANN NEWS  
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
 #EXTINF:-1 group-title="日语频道" tvg-logo="https://s2.loli.net/2023/01/25/fdrBQS3YKqxj8Ic.png",Fuji TV
 https://fujitv4.mov3.co/hls/fujitv.m3u8
-#EXTINF:-1 group-title="日语频道" tvg-logo="https://s2.loli.net/2023/01/25/T63Zae8yWDYn1Qt.png",TBS
-https://tbs3.mov3.co/hls/tbs.m3u8
-#EXTINF:-1 group-title="日语频道" tvg-logo="https://s2.loli.net/2023/09/16/MTruyFPWItL5NpY.png",MBS JP
-https://ythls.onrender.com/channel/UCkKJhKO73xF1pK5h9R82ZGQ.m3u8
-#EXTINF:-1 tvg-id="7110" group-title="日语频道" tvg-logo="https://s2.loli.net/2023/09/16/Ps5UK3gqxpCej6a.png",NHK Premium
-https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-#EXTINF:-1 group-title="日语频道" tvg-logo="https://s2.loli.net/2023/09/16/bPxMjEZOu7JtKla.png",TBS News
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+
+
+
 
 
 
@@ -561,6 +553,10 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 group-title="韩语频道" tvg-logo="https://s2.loli.net/2023/07/30/iGNJPKTXcU1nuW5.png",Arirang Korea
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="6183" group-title="法语频道" tvg-logo="https://s2.loli.net/2023/07/30/AhWq7Yt2kTunEpB.jpg",Euronews French
@@ -618,8 +614,7 @@ https://list.iptvcat.com/my_list/s/c380f0a38357a81f183a8bc1473f76fc.m3u8
 https://list.iptvcat.com/my_list/s/63ff687ccf5864b13deb5f36c09d8284.m3u8
 #EXTINF:-1 group-title="西班牙语" tvg-logo="https://s2.loli.net/2023/02/25/A9jNLxdV7iqE2Tr.png",Televisa Guadalajara
 https://list.iptvcat.com/my_list/s/3d678c71a3780addb51d720cdab5b6b4.m3u8
-#EXTINF:-1 group-title="西班牙语" tvg-logo="https://s2.loli.net/2023/02/25/8twNyAoVmzrBRMe.jpg",IP Noticias
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+
 
 
 
@@ -676,40 +671,38 @@ https://cdn1.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd
 #EXTM3U
 #EXTINF:-1 tvg-id="Qazaqstan.kz" tvg-logo="https://i.imgur.com/oI8g396.png" group-title="哈萨克语",Qazaqstan TV International
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
-#EXTINF:-1 tvg-id="KTK.kz" tvg-logo="https://i.imgur.com/BurrNTo.png" group-title="哈萨克语",КТК (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="KTK.kz" tvg-logo="https://i.imgur.com/BurrNTo.png" group-title="哈萨克语",КТК 
 http://89.218.30.37/ktklive/live.hq/playlist.m3u8
-#EXTINF:-1 tvg-id="QazSport.kz" tvg-logo="https://i.imgur.com/UDJ0P5Q.png" group-title="哈萨克语",QazSport (480p) [Geo-blocked]
+#EXTINF:-1 tvg-id="QazSport.kz" tvg-logo="https://i.imgur.com/UDJ0P5Q.png" group-title="哈萨克语",QazSport
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AbaiTV.kz" tvg-logo="https://i.imgur.com/Nw2R7Dq.png" group-title="哈萨克语",Abai TV
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Aqjaiyq.kz" tvg-logo="https://i.imgur.com/ZqIzzmf.png" group-title="哈萨克语",Aqjaiyq (576p)
+#EXTINF:-1 tvg-id="Aqjaiyq.kz" tvg-logo="https://i.imgur.com/ZqIzzmf.png" group-title="哈萨克语",Aqjaiyq
 https://stream.kaztrk.kz/regional/oraltv/index.m3u8
-#EXTINF:-1 tvg-id="Aqtobe.kz" tvg-logo="https://i.imgur.com/csKl1z6.png" group-title="哈萨克语",Aqtóbe (576p)
+#EXTINF:-1 tvg-id="Aqtobe.kz" tvg-logo="https://i.imgur.com/csKl1z6.png" group-title="哈萨克语",Aqtóbe 
 https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
-#EXTINF:-1 tvg-id="AtamekenBusiness.kz" tvg-logo="https://i.imgur.com/CfRvm8i.png" group-title="哈萨克语",Atameken Business (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="AtamekenBusiness.kz" tvg-logo="https://i.imgur.com/CfRvm8i.png" group-title="哈萨克语",Atameken Business 
 http://live-atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Atyray.kz" tvg-logo="https://i.imgur.com/kva4O3T.png" group-title="哈萨克语",Atyraý (720p)
+#EXTINF:-1 tvg-id="Atyray.kz" tvg-logo="https://i.imgur.com/kva4O3T.png" group-title="哈萨克语",Atyraý
 https://stream.kaztrk.kz/regional/atyrautv/index.m3u8
 
-#EXTINF:-1 tvg-id="Kokshe.kz" tvg-logo="https://i.imgur.com/pOR3FSR.png" group-title="哈萨克语",Kókshe (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Kokshe.kz" tvg-logo="https://i.imgur.com/pOR3FSR.png" group-title="哈萨克语",Kókshe
 https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
 
-#EXTINF:-1 tvg-id="MuzzOne.kz" tvg-logo="https://i.ibb.co/LgS5pZF/Captura.png" group-title="哈萨克语",MuzzOne (1080p)
-https://muzzone-stream.daitsuna.net/muzzondvr/muzzone/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="Qostanai.kz" tvg-logo="https://i.imgur.com/eOz4xJ8.png" group-title="哈萨克语",Qostanai (576p) [Not 24/7]
+
+#EXTINF:-1 tvg-id="Qostanai.kz" tvg-logo="https://i.imgur.com/eOz4xJ8.png" group-title="哈萨克语",Qostanai 
 https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
-#EXTINF:-1 tvg-id="Qyzyljar.kz" tvg-logo="https://i.imgur.com/7l1WSDJ.png" group-title="哈萨克语",Qyzyljar (720p)
+#EXTINF:-1 tvg-id="Qyzyljar.kz" tvg-logo="https://i.imgur.com/7l1WSDJ.png" group-title="哈萨克语",Qyzyljar
 https://stream.kaztrk.kz/regional/petropavltv/index.m3u8
-#EXTINF:-1 tvg-id="Qyzylorda.kz" tvg-logo="https://i.imgur.com/r4BFQpE.png" group-title="哈萨克语",Qyzylorda (720p)
-https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
-#EXTINF:-1 tvg-id="Saryarqa.kz" tvg-logo="https://i.imgur.com/EIXwi1c.png" group-title="哈萨克语",Saryarqa (720p) [Not 24/7]
+
+#EXTINF:-1 tvg-id="Saryarqa.kz" tvg-logo="https://i.imgur.com/EIXwi1c.png" group-title="哈萨克语",Saryarqa
 https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
-#EXTINF:-1 tvg-id="MTRK.kz" tvg-logo="https://i.imgur.com/XMyRwDk.png" group-title="哈萨克语",МТРК (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="MTRK.kz" tvg-logo="https://i.imgur.com/XMyRwDk.png" group-title="哈萨克语",МТРК
 https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
-#EXTINF:-1 tvg-id="Novoetelevidenie.kz" tvg-logo="https://i.imgur.com/mmKWrWs.png" group-title="哈萨克语",Новое телевидение (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="Novoetelevidenie.kz" tvg-logo="https://i.imgur.com/mmKWrWs.png" group-title="哈萨克语",Новое телевидение
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 
 
