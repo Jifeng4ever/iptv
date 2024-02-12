@@ -86,23 +86,31 @@ http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 #EXTINF:-1 tvg-id="6143" group-title="台湾新闻" tvg-logo="https://s2.loli.net/2024/01/09/nCXOKyeUlw7qHMI.png",台视新闻台
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 tvg-id="6143" group-title="台湾新闻" tvg-logo="https://s2.loli.net/2024/01/09/nCXOKyeUlw7qHMI.png",台视新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 #EXTINF:-1 tvg-id="" group-title="台湾新闻" tvg-logo="https://s2.loli.net/2024/01/17/ETo6im79rNDc1tj.png",公视新闻台
 http://livetv.skycf.eu.org/live.m3u8?c=8
 #EXTINF:-1 tvg-id="6071" group-title="台湾新闻" tvg-logo="https://s2.loli.net/2024/01/09/dEt5CLrg1R76m3s.jpg",民视新闻台
 http://198.16.100.90:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
 
-
-
+#EXTINF:-1 tvg-id="6071" group-title="台湾新闻" tvg-logo="https://s2.loli.net/2024/01/09/dEt5CLrg1R76m3s.jpg",民视新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻"group-title="台湾新闻" tvg-logo="https://s2.loli.net/2022/11/09/ZvWKuxNhG68dSzl.png",镜新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+https://epg.pw/stream/495154de63dcea2a3028c43323b8c41fcba189c3de87d1d8232e7edd6b5e9856.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻"group-title="台湾新闻" tvg-logo="https://s2.loli.net/2024/01/09/VujlHZBRWKsEMq5.jpg",中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 tvg-id="6073" group-title="台湾新闻" tvg-logo="https://s2.loli.net/2023/07/30/cWbO3RrVMFu9fnI.png",TVBS新闻台
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 
+#EXTINF:-1 tvg-id="6073" group-title="台湾新闻" tvg-logo="https://s2.loli.net/2023/07/30/cWbO3RrVMFu9fnI.png",TVBS新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+
 #EXTINF:-1 tvg-id="6072" tvg-name="三立新闻"group-title="台湾新闻" tvg-logo="https://s2.loli.net/2024/01/11/FABOQutdEghp2y8.jpg",三立iNews
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+
+#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻"group-title="台湾新闻" tvg-logo="https://s2.loli.net/2024/01/11/FABOQutdEghp2y8.jpg",LIVE三立
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻" group-title="台湾新闻" tvg-logo="https://s2.loli.net/2023/07/30/CjgputfQPOHE5ha.jpg",东森新闻
 http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MD1D1428989414289894&ct=19346&tsum=d8fc0ab62e1d97aaca4279883cb1101c
@@ -125,11 +133,13 @@ http://198.16.100.90:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&ts
 #EXTINF:-1 tvg-id="6037" group-title="台湾频道" tvg-logo="https://s2.loli.net/2023/09/17/WymKkRhuMaQcYt7.png",探索频道
 http://50.7.238.114:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
 
-#EXTINF:-1 tvg-id="691" group-title="台湾频道" tvg-logo="https://s2.loli.net/2023/09/16/uILoxQFCkNgE2rO.png",国家地理
-http://198.16.100.90:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
 
-#EXTINF:-1 tvg-id="691" group-title="台湾频道" tvg-logo="https://s2.loli.net/2023/09/16/uILoxQFCkNgE2rO.png",国家地理
+#EXTINF:-1 tvg-id="691" group-title="台湾频道" tvg-logo="https://s2.loli.net/2023/09/16/uILoxQFCkNgE2rO.png",NATGEO
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=176897
+
+#EXTINF:-1 tvg-id="" group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/02/12/aILZX1UcsiebF5n.jpg",NATGEO WILD
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=30525
+
 
 #EXTINF:-1 tvg-id="6166" group-title="台湾频道" tvg-logo="https://s2.loli.net/2023/09/16/YJZ1HL2KcBQIiVx.png",探索频道亚洲
 http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
@@ -146,6 +156,12 @@ http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct
 
 #EXTINF:-1 tvg-id="6028" group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/01/28/RB8ZMsOl53JDayt.png",中视
 http://50.7.238.114:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
+
+
+#EXTINF:-1 tvg-id="6028" group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/01/28/RB8ZMsOl53JDayt.png",中视
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+#EXTINF:-1 tvg-id="6028" group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/01/28/RB8ZMsOl53JDayt.png",中视
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
 #EXTINF:-1 tvg-id="6030" group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png",华视
 http://50.7.238.114:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6
 
@@ -159,9 +175,12 @@ http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&
 http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/02/12/U6eKAZyfso3LOS1.png",中天亚洲台
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571212
-#EXTINF:-1 tvg-id="" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/02/07/BbsztuJS3vEgKAm.jpg",新唐人
-http://cnhls.ntdtv.com/cn/live400/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/02/07/BbsztuJS3vEgKAm.jpg",新唐人亚太台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 
+
+#EXTINF:-1 tvg-id="6027" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png",大爱频道
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" tvg-id="6045" tvg-name="八大第一台" group-title="台湾频道",八大第一台
 http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
 
@@ -312,7 +331,6 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 
 
-
 #EXTINF:-1 tvg-id="7100" group-title="国际新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
@@ -332,6 +350,8 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="国际新闻",台湾Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="国际新闻",台湾Plus
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 
 
 
@@ -340,7 +360,8 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/09/16/6hQ7VfNkPS4Jy23.png",RT News 2
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/02/12/CZA9zVKrIUH7siB.png",Asianet News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
 
 
 
@@ -361,22 +382,34 @@ https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/07/30/6ARUSd4g58Ls1rQ.png",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://s2.loli.net/2023/07/30/6ARUSd4g58Ls1rQ.png" group-title="国际新闻",TRT世界
+#EXTINF:-1 tvg-logo="https://s2.loli.net/2023/07/30/6ARUSd4g58Ls1rQ.png" group-title="国际新闻",TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
 
 #EXTINF:-1 tvg-id="FoxNews" tvg-name="FoxNews" tvg-logo="https://s2.loli.net/2024/01/11/ClWy73jbrhu5dRw.jpg" group-title="国际新闻",Live Now FOX News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
+
+
 #EXTINF:-1 group-title="国际新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Global_News.svg/1200px-Global_News.svg.png",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
-#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="https://epg.112114.xyz/logo/GB-NEWS.png" group-title="国际新闻",GB新闻
+
+
+
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="https://epg.112114.xyz/logo/GB-NEWS.png" group-title="国际新闻",GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+
+#EXTINF:-1 group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/01/09/9uXp7maijoD3hKx.png",GB News
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/01/09/9uXp7maijoD3hKx.png",GB News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
 
 
 
 #EXTINF:-1 group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/01/09/7a1muJBdMtRHrvp.png",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/01/09/7a1muJBdMtRHrvp.png",India Today
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
 #EXTINF:-1 group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/01/09/UY14APCuJfOniSL.png",Africa News
 https://rakuten-africanews-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -388,14 +421,16 @@ http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1 group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/01/09/YThjmUCI4pJAOZK.jpg",ATN News
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
-#EXTINF:-1 group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/01/09/9uXp7maijoD3hKx.png",GB News
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="FoxHD" tvg-name="FoxHD" tvg-logo="https://epg.112114.xyz/logo/FOXNEWS.png" group-title="国际新闻",Fox新闻
 http://38.96.178.201:80/live/FOXHD/index.m3u8
 
 #EXTINF:-1 tvg-id="ABC NEWS" tvg-name="ABC NEWS" tvg-logo="https://epg.112114.xyz/logo/ABCNEWS.png" group-title="国际新闻",ABC新闻
 http://38.96.178.201:80/live/ABCHD/index.m3u8
+
+#EXTINF:-1 tvg-id="ABC NEWS" tvg-name="ABC NEWS" tvg-logo="https://epg.112114.xyz/logo/ABCNEWS.png" group-title="国际新闻",ABC新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 
 #EXTINF:-1 tvg-id="CBNNews.us" tvg-name="CBNNews" tvg-logo="https://epg.112114.xyz/logo/CBNNEWS.png" group-title="国际新闻",CBN新闻
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
@@ -436,8 +471,7 @@ http://170.254.18.106/HBO_SIG/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" group-title="国际频道" tvg-logo="https://s2.loli.net/2024/02/12/aILZX1UcsiebF5n.jpg",NATGEO WILD
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=30525
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Channel U"group-title="国际频道" tvg-logo="https://s2.loli.net/2023/09/17/CnS3O4GbQ6yFDeW.png",Channel U
@@ -600,6 +634,9 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 group-title="阿拉伯语" tvg-logo="https://s2.loli.net/2022/10/31/pkSl3YLqWiEeXwF.png",AL Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+
+#EXTINF:-1 group-title="阿拉伯语" tvg-logo="https://s2.loli.net/2022/10/31/pkSl3YLqWiEeXwF.png",AL Jazeera Arabic
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
 #EXTINF:-1 group-title="阿拉伯语" tvg-logo="https://s2.loli.net/2022/10/31/ReiYCUQ31zruZB9.png",AL Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 group-title="阿拉伯语" tvg-logo="https://s2.loli.net/2023/09/20/dnlFO4B8vWZbs2m.png",Abu Dhabi TV
@@ -637,6 +674,8 @@ https://list.iptvcat.com/my_list/s/32ac071ed7337b85457322e1ea51cc0e.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
 #EXTINF:-1 group-title="日语频道" tvg-logo="https://s2.loli.net/2023/09/16/TLy639PbXldCsnt.jpg",ANN NEWS  
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
+#EXTINF:-1 group-title="日语频道" tvg-logo="https://s2.loli.net/2023/09/16/TLy639PbXldCsnt.jpg",ANN NEWS 
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
 #EXTINF:-1 group-title="日语频道" tvg-logo="https://s2.loli.net/2023/01/25/fdrBQS3YKqxj8Ic.png",Fuji TV
 https://fujitv4.mov3.co/hls/fujitv.m3u8
 
