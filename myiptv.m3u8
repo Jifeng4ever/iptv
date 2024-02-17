@@ -79,7 +79,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 #EXTINF:-1 tvg-id="6068" tvg-name="年代新闻"group-title="台湾新闻" tvg-logo="https://s2.loli.net/2023/09/16/tSVMxdykqw4pL7U.png",年代新闻
 http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
 
-#EXTINF:-1 tvg-id="6076" tvg-name="寰宇新闻"group-title="台湾新闻" tvg-logo="https://s2.loli.net/2024/02/12/u85V7k4IMzwyJZH.jpg",非凡新闻台
+#EXTINF:-1 tvg-id="6076" tvg-name="非凡新闻台"group-title="台湾新闻" tvg-logo="https://s2.loli.net/2024/02/12/u85V7k4IMzwyJZH.jpg",非凡新闻台
 http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 
 #EXTINF:-1 tvg-id="7176" group-title="台湾新闻" tvg-logo="https://s2.loli.net/2023/09/18/WIh4f1lHFexCvNA.jpg",中视新闻
@@ -367,6 +367,9 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
 
 #EXTINF:-1 group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/09/18/vJzmR6ts73SVIxi.jpg",NBC News NOW
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+#EXTINF:-1 group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/09/18/vJzmR6ts73SVIxi.jpg",NBC News NOW
+https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
+
 #EXTINF:-1 group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/09/16/grzjNk1LwWYEBm2.png",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/09/16/grzjNk1LwWYEBm2.png",CBS News
@@ -399,9 +402,9 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="https://epg.112114.xyz/logo/GB-NEWS.png" group-title="国际新闻",GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 
-#EXTINF:-1 group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/01/09/9uXp7maijoD3hKx.png",GB News
+#EXTINF:-1 group-title="国际新闻" tvg-logo="https://epg.112114.xyz/logo/GB-NEWS.png",GB News
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/01/09/9uXp7maijoD3hKx.png",GB News
+#EXTINF:-1 group-title="国际新闻" tvg-logo="https://epg.112114.xyz/logo/GB-NEWS.png",GB News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
 
 
@@ -449,6 +452,14 @@ http://23.237.98.42:8080/USA_CNBC/index.m3u8
 
 
 #EXTM3U
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://epg.112114.xyz/logo/ANIMAL.png" group-title="国际频道",Animal Planet
+http://38.96.178.201:80/live/AnimalPlanet/index.m3u8
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://epg.112114.xyz/logo/discovery.png" group-title="国际频道",Discovery Channel
+http://38.96.178.201:80/live/Discovery/index.m3u8
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://s2.loli.net/2024/02/17/K46McF3q5DElvYy.png" group-title="国际频道",Wild Planet
+https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="国际频道" tvg-logo="https://s2.loli.net/2024/01/28/r82bLRXPUZ7OCwQ.jpg",BBC ONE
 http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MA4A9532597395325973&ct=19230&tsum=730628fd737b265598d82053feb30902
 #EXTINF:-1 tvg-id="" group-title="国际频道" tvg-logo="https://s2.loli.net/2024/01/28/bZknLYR4r6Mguvt.png",BBC TWO
@@ -507,19 +518,14 @@ http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="TalkTV.uk" tvg-name="TalkTV" tvg-logo="https://epg.112114.xyz/logo/TALKTV.png" group-title="国际频道",TalkTV
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8
 
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://epg.112114.xyz/logo/ANIMAL.png" group-title="国际频道",Animal Planet
-http://38.96.178.201:80/live/AnimalPlanet/index.m3u8
 
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://epg.112114.xyz/logo/ANIMAL.png" group-title="国际频道",Animal Planet
-https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
 #EXTINF:-1 tvg-id="LoveNature" tvg-name="LoveNature" tvg-logo="https://epg.112114.xyz/logo/Love Nature.png" group-title="国际频道",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://epg.112114.xyz/logo/COMEDY.png" group-title="国际频道",Comedy Central
 http://38.96.178.201:80/live/ComedyCentral/index.m3u8
 #EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://epg.112114.xyz/logo/FOOD.png" group-title="国际频道",Food Network
 http://38.96.178.201:80/live/FoodNetwork/index.m3u8
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://epg.112114.xyz/logo/discovery.png" group-title="国际频道",Discovery Channel
-http://38.96.178.201:80/live/Discovery/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Disney" tvg-name="Disney" tvg-logo="https://epg.112114.xyz/logo/disney.png" group-title="国际频道",Disney Channel
 http://38.96.178.201:80/live/Disney/index.m3u8
@@ -579,17 +585,16 @@ https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-
-#EXTINF:-1 tvg-id="7192" tvg-name="CCTV5" group-title="体育频道" tvg-logo="https://s2.loli.net/2024/01/31/l1tJZLnzPR7UjBN.png",爱尔达体育2
-http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
-
-
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" tvg-id="6174" tvg-name="博斯运动二台" group-title="体育频道",博斯运动二台
 http://198.16.100.90:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
-
-
+#EXTINF:-1 tvg-id="7192" tvg-name="CCTV5" group-title="体育频道" tvg-logo="https://s2.loli.net/2024/01/31/l1tJZLnzPR7UjBN.png",爱尔达体育2
+http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="体育频道" tvg-logo="https://s2.loli.net/2024/01/28/vKQmhpuleVB3GqA.png",爱尔达体育4
 http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
+
+
+
+
 #EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://epg.112114.xyz/logo/NBA.png" group-title="体育频道",NBA
 http://38.96.178.201/live/NBA/index.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://epg.112114.xyz/logo/TNT.png" group-title="体育频道",TNT
