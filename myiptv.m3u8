@@ -597,6 +597,15 @@ https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
@@ -650,6 +659,9 @@ https://live.mnb.mn/live/mnb_sport.stream/playlist.m3u8
 
 
 
+
+
+
 #EXTINF:-1 group-title="阿拉伯语" tvg-logo="https://s2.loli.net/2024/01/10/ixlXHDTzABVPrFL.jpg",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 group-title="阿拉伯语" tvg-logo="https://s2.loli.net/2024/01/10/ZqTXR1LeoyQAd7O.png",BBC Arabic
@@ -677,6 +689,10 @@ http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione/chunklist_b180000.m3u8
 #EXTINF:-1 group-title="阿拉伯语" tvg-logo="https://s2.loli.net/2024/01/10/A1U8YCWO9TPN7ut.png",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u
+
+
+
+
 
 
 
@@ -717,6 +733,8 @@ https://list.iptvcat.com/my_list/s/e435cc7ca5fd6eac84db1f958c24af34.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-id="6141" group-title="韩语频道" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png",KBS World
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 tvg-id="6141" group-title="韩语频道" tvg-logo="https://s2.loli.net/2023/07/30/iGNJPKTXcU1nuW5.png",Arirang Korea
@@ -729,11 +747,18 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 
 
 
+
+
+#EXTINF:-1 tvg-id="731" group-title="法语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tv5monde.png",TV5 MONDE
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="6183" group-title="法语频道" tvg-logo="https://s2.loli.net/2023/07/30/AhWq7Yt2kTunEpB.jpg",Euronews French
 https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="9999" group-title="法语频道" tvg-logo="https://s2.loli.net/2023/09/22/1zbV5a6CvckNFSh.jpg",Paris Premiere
 https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="RTDoc" tvg-name="RTDoc" tvg-logo="https://live.fanmingming.com/tv/RTDoc.png" group-title="俄语频道",RT纪录
