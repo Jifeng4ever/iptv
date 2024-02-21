@@ -1,21 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Adult" tvg-logo="https://i.imgur.com/MpQtdTb.png",Miami TV Mexico (1080p)
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
-#EXTINF:-1 group-title="Adult" tvg-logo="https://i.imgur.com/6aOmZs4.png",O-la-la! (576p)
-http://31.148.48.15/O-la-la/index.m3u8
-#EXTINF:-1 group-title="Adult" tvg-logo="https://i.imgur.com/0JufwBJ.png",Penthouse Gold (1080p)
-http://51.159.102.100/PenthouseGold/index.m3u8
-#EXTINF:-1 group-title="Adult" tvg-logo="https://i.imgur.com/B3DMUM9.png",Playboy TV Latin America (1080p)
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 group-title="Adult" tvg-logo="https://i.imgur.com/avtSqUu.png",Visit-X TV (720p)
-https://stream.visit-x.tv/vxtv/live/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/21/ND1H8O3E4aoUxRi.jpg",RedLight HD
-http://51.159.102.100/RedlightHD/index.m3u8
-
-#EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/21/YxMPmFEqzuLBJ8l.png",PornBOX
+#EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/21/YxMPmFEqzuLBJ8l.png",PornBOX1
 http://23.237.100.82:8000/PENTHOUSE/index.m3u8
 #EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/21/YxMPmFEqzuLBJ8l.png",PornBOX2
 http://23.237.100.82:8000/BRAZZERS/index.m3u8
@@ -24,6 +8,20 @@ http://23.237.100.82:8000/BRAZZERS/index.m3u8
 http://23.237.100.82:8000/HUSTLER/index.m3u8
 #EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/21/YxMPmFEqzuLBJ8l.png",PornBOX4
 http://23.237.100.82:8000/PLAYBOY/index.m3u8
+
+#EXTINF:-1 group-title="Adult" tvg-logo="https://i.imgur.com/MpQtdTb.png",Miami TV Mexico
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+#EXTINF:-1 group-title="Adult" tvg-logo="https://i.imgur.com/6aOmZs4.png",O-la-la
+http://31.148.48.15/O-la-la/index.m3u8
+
+#EXTINF:-1 group-title="Adult" tvg-logo="https://i.imgur.com/B3DMUM9.png",Playboy TV Latin America
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 group-title="Adult" tvg-logo="https://i.imgur.com/avtSqUu.png",Visit-X TV
+https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/21/ND1H8O3E4aoUxRi.jpg",RedLight HD
+http://51.159.102.100/RedlightHD/index.m3u8
+
 
 
 #EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/21/9HVLsWIuKJkYtjM.png",Desire
@@ -53,8 +51,9 @@ http://146.59.54.163/348/index.m3u8
 
 #EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/11/GDX8yAESoKfzTtn.jpg",Brazzers
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-
-#EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/11/SClsmj5c6G1xrMf.jpg",Penthouse GOLD
+#EXTINF:-1 group-title="Adult" tvg-logo="https://i.imgur.com/0JufwBJ.png",Penthouse Gold1
+http://51.159.102.100/PenthouseGold/index.m3u8
+#EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/11/SClsmj5c6G1xrMf.jpg",Penthouse GOLD2
 http://146.59.54.163/353/index.m3u8
 
 #EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/11/5pMYa4OCNcvRuEH.jpg",BabesTV
@@ -74,15 +73,15 @@ https://video1.rhsj520.com/nyrm3/2011225/DR/n0001/index.m3u8
 
 
 
-#EXTINF:-1 group-title="MycamTV" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Arab (720p)
+#EXTINF:-1 group-title="MycamTV" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Arab
 http://live.mycamtv.com/arab.m3u8
-#EXTINF:-1 group-title="MycamTV" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Blowjob (720p)
+#EXTINF:-1 group-title="MycamTV" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Blowjob
 http://live.mycamtv.com/blowjob.m3u8
-#EXTINF:-1 group-title="MycamTV" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Medium (720p)
+#EXTINF:-1 group-title="MycamTV" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Medium
 http://live.mycamtv.com/medium.m3u8
-#EXTINF:-1 group-title="MycamTV" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV MILF (720p)
+#EXTINF:-1 group-title="MycamTV" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV MILF
 http://live.mycamtv.com/milf.m3u8
-#EXTINF:-1 group-title="MycamTV" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Teen (720p)
+#EXTINF:-1 group-title="MycamTV" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Teen 
 http://live.mycamtv.com/teen.m3u8
-#EXTINF:-1 group-title="MycamTV" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Young (720p)
+#EXTINF:-1 group-title="MycamTV" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Young
 http://live.mycamtv.com/young.m3u8
