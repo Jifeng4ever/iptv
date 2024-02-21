@@ -1,5 +1,25 @@
 #EXTM3U
 
+
+
+
+#EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/21/ND1H8O3E4aoUxRi.jpg",RedLight HD
+http://51.159.102.100/RedlightHD/index.m3u8
+
+#EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/21/YxMPmFEqzuLBJ8l.png",PornBOX
+http://23.237.100.82:8000/PENTHOUSE/index.m3u8
+#EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/21/YxMPmFEqzuLBJ8l.png",PornBOX2
+http://23.237.100.82:8000/BRAZZERS/index.m3u8
+
+#EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/21/YxMPmFEqzuLBJ8l.png",PornBOX3
+http://23.237.100.82:8000/HUSTLER/index.m3u8
+#EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/21/YxMPmFEqzuLBJ8l.png",PornBOX4
+http://23.237.100.82:8000/PLAYBOY/index.m3u8
+
+
+#EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/21/9HVLsWIuKJkYtjM.png",Desire
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+
 #EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/11/nTuGMa2KIe9WEYF.png",Erox
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/11/gmus9G3qAQ4Ep5f.png",Eroxxx
@@ -25,7 +45,7 @@ http://146.59.54.163/348/index.m3u8
 #EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/11/GDX8yAESoKfzTtn.jpg",Brazzers
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/11/SClsmj5c6G1xrMf.jpg",Penthouse 
+#EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/11/SClsmj5c6G1xrMf.jpg",Penthouse GOLD
 http://146.59.54.163/353/index.m3u8
 
 #EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/11/5pMYa4OCNcvRuEH.jpg",BabesTV
