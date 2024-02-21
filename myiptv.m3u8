@@ -32,7 +32,7 @@ http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&
 
 
 
-#EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv112_mobile.png" tvg-id="828" tvg-name="天映经典" group-title="香港频道",天映经典
+#EXTINF:-1 tvg-logo="https://s2.loli.net/2024/02/21/O8fDgVhZbS6yPuc.jpg" tvg-id="828" tvg-name="天映经典" group-title="香港频道",天映经典
 http://210.210.155.37/dr9445/h/h14/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c4XvwO2.png" tvg-id="6159" tvg-name="tvN" group-title="香港频道",tvN Movie Asia
@@ -88,7 +88,7 @@ http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285
 http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天国际.png" tvg-id="7187" tvg-name="靖天国际" group-title="台湾新闻",KLT靖天国际
+#EXTINF:-1 tvg-logo="https://s2.loli.net/2024/02/21/wBer17Umf8A3PcR.jpg" tvg-id="7187" tvg-name="靖天国际" group-title="台湾新闻",KLT靖天国际
 http://50.7.238.114:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
 
 
