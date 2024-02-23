@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/21/YxMPmFEqzuLBJ8l.png",PornBOX1
-http://23.237.100.82:8000/PENTHOUSE/index.m3u8
-#EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/21/YxMPmFEqzuLBJ8l.png",PornBOX2
-http://23.237.100.82:8000/BRAZZERS/index.m3u8
-
-#EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/21/YxMPmFEqzuLBJ8l.png",PornBOX3
-http://23.237.100.82:8000/HUSTLER/index.m3u8
-#EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/21/YxMPmFEqzuLBJ8l.png",PornBOX4
-http://23.237.100.82:8000/PLAYBOY/index.m3u8
-
 #EXTINF:-1 group-title="Adult" tvg-logo="https://i.imgur.com/MpQtdTb.png",Miami TV Mexico
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 #EXTINF:-1 group-title="Adult" tvg-logo="https://i.imgur.com/6aOmZs4.png",O-la-la
@@ -21,8 +11,6 @@ https://stream.visit-x.tv/vxtv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/21/ND1H8O3E4aoUxRi.jpg",RedLight HD
 http://51.159.102.100/RedlightHD/index.m3u8
-
-
 
 #EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/21/9HVLsWIuKJkYtjM.png",Desire
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
@@ -69,19 +57,3 @@ https://video1.rhsj520.com/nyrm3/2011225/DR/n0010/index.m3u8
 https://video1.rhsj520.com/nyrm3/2011225/DR/n0008/index.m3u8
 #EXTINF:-1 group-title="Adult",东热04
 https://video1.rhsj520.com/nyrm3/2011225/DR/n0001/index.m3u8
-
-
-
-
-#EXTINF:-1 group-title="MycamTV" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Arab
-http://live.mycamtv.com/arab.m3u8
-#EXTINF:-1 group-title="MycamTV" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Blowjob
-http://live.mycamtv.com/blowjob.m3u8
-#EXTINF:-1 group-title="MycamTV" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Medium
-http://live.mycamtv.com/medium.m3u8
-#EXTINF:-1 group-title="MycamTV" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV MILF
-http://live.mycamtv.com/milf.m3u8
-#EXTINF:-1 group-title="MycamTV" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Teen 
-http://live.mycamtv.com/teen.m3u8
-#EXTINF:-1 group-title="MycamTV" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Young
-http://live.mycamtv.com/young.m3u8
