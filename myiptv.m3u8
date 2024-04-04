@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港频道",凤凰资讯台
-http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港频道",凤凰资讯台
 http://php.17186.eu.org/phtv/fhzx.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港频道",凤凰资讯台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰华语" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港频道",凤凰中文台
-http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰华语" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港频道",凤凰中文台
 http://210.210.155.37/uq2663/h/h157/index2.m3u8
 
