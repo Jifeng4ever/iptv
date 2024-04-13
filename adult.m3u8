@@ -1,24 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="Adult" tvg-logo="https://i.imgur.com/MpQtdTb.png",Miami TV Mexico
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
-#EXTINF:-1 group-title="Adult" tvg-logo="https://i.imgur.com/6aOmZs4.png",O-la-la
-http://31.148.48.15/O-la-la/index.m3u8
-
-#EXTINF:-1 group-title="Adult" tvg-logo="https://i.imgur.com/B3DMUM9.png",Playboy TV Latin America
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 group-title="Adult" tvg-logo="https://i.imgur.com/avtSqUu.png",Visit-X TV
-https://stream.visit-x.tv/vxtv/live/playlist.m3u8
-
-#EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/21/ND1H8O3E4aoUxRi.jpg",RedLight HD
-http://51.159.102.100/RedlightHD/index.m3u8
 
 #EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/21/9HVLsWIuKJkYtjM.png",Desire
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 
 #EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/11/nTuGMa2KIe9WEYF.png",Erox
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/11/gmus9G3qAQ4Ep5f.png",EroAdult
-http://88.212.7.11/live/test_eroAdult_hd_hevc/playlist.m3u8
+
 #EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/11/IXnbdvwOxC9Qc1k.png",Private
 http://146.59.54.163/356/playlist.m3u8
 
@@ -29,9 +16,6 @@ http://146.59.54.163/345/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/11/YmWQCriyZVLgj9b.jpg",Vivid Red
-http://cdnx1.plusx.tv:8880/361/mono.m3u8?token=65df4b105d30b4b9573333
-
 
 #EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/11/4KuMVzRxCB5qgIE.jpg",Hustler
 http://146.59.54.163/348/index.m3u8
@@ -39,21 +23,20 @@ http://146.59.54.163/348/index.m3u8
 
 #EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/11/GDX8yAESoKfzTtn.jpg",Brazzers
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="Adult" tvg-logo="https://i.imgur.com/0JufwBJ.png",Penthouse Gold1
-http://51.159.102.100/PenthouseGold/index.m3u8
-#EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/11/SClsmj5c6G1xrMf.jpg",Penthouse GOLD2
+
+#EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/11/SClsmj5c6G1xrMf.jpg",Penthouse GOLD
 http://146.59.54.163/353/index.m3u8
 
 #EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/11/5pMYa4OCNcvRuEH.jpg",BabesTV
 http://146.59.54.163/354/index.m3u8
 
 #EXTINF:-1 group-title="Adult" tvg-logo="https://s2.loli.net/2024/02/11/cAPjfgJl18TxMmh.png",Playboy+
-http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6242/index.m3u8
-#EXTINF:-1 group-title="Adult",东热01
-https://video1.rhsj520.com/nyrm3/2011225/DR/n0011/index.m3u8
-#EXTINF:-1 group-title="Adult",东热02
-https://video1.rhsj520.com/nyrm3/2011225/DR/n0010/index.m3u8
-#EXTINF:-1 group-title="Adult",东热03
-https://video1.rhsj520.com/nyrm3/2011225/DR/n0008/index.m3u8
-#EXTINF:-1 group-title="Adult",东热04
-https://video1.rhsj520.com/nyrm3/2011225/DR/n0001/index.m3u8
+
+
+#EXTINF:-1 group-title="Adult" tvg-logo="https://i.imgur.com/MpQtdTb.png",Miami TV Mexico (1080p)
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+#EXTINF:-1 group-title="Adult" tvg-logo="https://i.imgur.com/6aOmZs4.png",O-la-la! (576p)
+http://31.148.48.15/O-la-la/index.m3u8
+
+#EXTINF:-1 group-title="Adult" tvg-logo="https://i.imgur.com/B3DMUM9.png",Playboy TV Latin America (1080p)
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
