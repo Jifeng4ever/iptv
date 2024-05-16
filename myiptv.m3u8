@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港频道",凤凰资讯台
-http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 
 
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰华语" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港频道",凤凰中文台
