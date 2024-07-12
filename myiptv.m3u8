@@ -65,9 +65,9 @@ https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 
 
 
-#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻"group-title="台湾新闻" tvg-logo="https://s2.loli.net/2023/07/30/7d8oxjNfXwMrK1i.jpg",寰宇(YT直播）
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻"group-title="台湾新闻" tvg-logo="https://s2.loli.net/2023/07/30/7d8oxjNfXwMrK1i.jpg",寰宇台湾台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
-#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻"group-title="台湾新闻" tvg-logo="https://s2.loli.net/2023/07/30/7d8oxjNfXwMrK1i.jpg",寰宇新闻(YT)
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻"group-title="台湾新闻" tvg-logo="https://s2.loli.net/2023/07/30/7d8oxjNfXwMrK1i.jpg",寰宇新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻" group-title="台湾新闻" tvg-logo="https://s2.loli.net/2023/07/30/CjgputfQPOHE5ha.jpg",东森新闻
@@ -153,9 +153,11 @@ http://210.210.155.35/uq2663/h/h156/index2.m3u8?app_type=web&userid=50n13N0v14nd
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-id="742" group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/07/30/QO1UVGFkMI7vEwd.png",SKY News
-https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
 
 
+#EXTINF:-1 tvg-id="" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/12/KPTFIfXOC34NSbu.jpg",NBC News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 #EXTINF:-1 tvg-id="6139" group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/09/16/Em2vYkUwX5u4NCq.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
@@ -187,8 +189,7 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 
 #EXTINF:-1 tvg-id="RTNews" tvg-name="RTNEWS" tvg-logo="https://s2.loli.net/2023/09/16/6hQ7VfNkPS4Jy23.png" group-title="国际新闻", RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/09/16/6hQ7VfNkPS4Jy23.png",RT News
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/02/12/CZA9zVKrIUH7siB.png",Asianet News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
@@ -276,13 +277,49 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
 
 #EXTINF:-1 tvg-id="VNews.vn" tvg-logo="https://i.imgur.com/qGKQE0r.png" group-title="国际新闻",V News
 https://zjizeoupprliv.vcdn.cloud/live/smil:vnews.smil/playlist.m3u8
+#EXTINF:-1,group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/09/22/Wt9iN5jgTuYHJOB.png",Estrella TV
+https://estrellatv-glewed.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/01/10/GVn4mU6cfXhIksO.jpg",RT Espanol
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/01/10/ephBZXPTI3jLrGa.png",DW Espanol
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/01/10/ixlXHDTzABVPrFL.jpg",DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/01/10/ZqTXR1LeoyQAd7O.png",BBC Arabic
+https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8
+#EXTINF:-1 group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/01/10/ywtO6LZsvXmj4FP.png",Sky News Arabic
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 group-title="国际新闻" tvg-logo="https://s2.loli.net/2022/10/31/pkSl3YLqWiEeXwF.png",AL Jazeera Arabic
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
+#EXTINF:-1 group-title="国际新闻" tvg-logo="https://s2.loli.net/2022/10/31/ReiYCUQ31zruZB9.png",AL Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/01/10/yE2kzb5i9RM4nWI.png",Al Sharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="7110" group-title="国际频道" tvg-logo="https://s2.loli.net/2023/09/16/Ps5UK3gqxpCej6a.png",NHK Premium
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 tvg-id="" group-title="国际频道" tvg-logo="https://s2.loli.net/2024/02/07/JdlcC2rRUe9AnFG.png",NHK BSP4K
+https://list.iptvcat.com/my_list/s/6c83e24cf9f6215ba65e6ffe15aa68fc.m3u8
+#EXTINF:-1 tvg-id="" group-title="国际频道" tvg-logo="https://s2.loli.net/2023/01/25/Y7pNAsSc5w4JUD9.png",NHK G
+https://list.iptvcat.com/my_list/s/2e629e3a7323aa8da141f8f190da993a.m3u8
+#EXTINF:-1 tvg-id="" group-title="国际频道" tvg-logo="https://s2.loli.net/2024/02/07/mpOrZ6KAuHSNDG8.jpg",Nippon TV
+https://list.iptvcat.com/my_list/s/0781292a28a8baf407418fed00c17f50.m3u8
+#EXTINF:-1 tvg-id="" group-title="国际频道" tvg-logo="https://s2.loli.net/2023/07/31/orLaDkZ5UC3RAzj.jpg",NTV NEWS
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
+#EXTINF:-1 group-title="国际频道" tvg-logo="https://s2.loli.net/2023/09/16/bPxMjEZOu7JtKla.png",TBS News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
 
-
-
-
-
+#EXTINF:-1 group-title="国际频道" tvg-logo="https://s2.loli.net/2023/09/16/TLy639PbXldCsnt.jpg",ANN NEWS 
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
+#EXTINF:-1 group-title="国际频道" tvg-logo="https://s2.loli.net/2023/01/25/fdrBQS3YKqxj8Ic.png",Fuji TV
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 group-title="国际频道" tvg-logo="https://s2.loli.net/2023/01/25/EXM5i1o3UGTH4DF.jpg",BS Asahi
+https://list.iptvcat.com/my_list/s/4c479f7c1d548592afa5ae60e836877e.m3u8
+#EXTINF:-1 group-title="国际频道" tvg-logo="https://s2.loli.net/2023/01/26/ugdYvFPxW4DG9fA.png",BS Fuji
+https://list.iptvcat.com/my_list/s/00c1344ec540c5af044cd3df96e8acd0.m3u8
+#EXTINF:-1 group-title="国际频道" tvg-logo="https://s2.loli.net/2023/01/25/umkpGwQobJSe9t5.png",BS Tokyo
+https://list.iptvcat.com/my_list/s/e435cc7ca5fd6eac84db1f958c24af34.m3u8
 
 
 
@@ -351,22 +388,15 @@ https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
 https://z02.ubtvfans.com/live/rx1/2760/ef7b429ab611f4f754b38762aeaee07c/index.m3u8
-
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
 http://fxgm.fxjf.work:19901/tsfile/live/0016_1.m3u8
-
 
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV5+" group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV奥林匹克
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 #EXTINF:-1 tvg-id="6007" tvg-name="CCTV5" group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV-SPORT.png",辽宁体育
 http://fxgm.fxjf.work:19901/tsfile/live/1003_1.m3u8
-
 #EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://epg.112114.xyz/logo/NBA.png" group-title="体育频道",NBA
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/136
-
-vg-logo="https://s2.loli.net/2024/02/07/f7dsVOJK9v6Xkcw.png" group-title="体育频道",Fight Network
-https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel" tvg-logo="https://epg.112114.xyz/logo/TENNISCHANNEL.png" group-title="体育频道",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="体育频道" tvg-logo="https://s2.loli.net/2023/02/18/EcNs5CMfpTxdZ79.png",Dubai Sports 1
@@ -576,8 +606,7 @@ http://fxgm.fxjf.work:19901/tsfile/live/1015_1.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CCTV13" group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg",CHC高清电影
 http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
 
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
-https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://fxgm.fxjf.work:19901/tsfile/live/0128_1.m3u8
@@ -641,8 +670,6 @@ http://fxgm.fxjf.work:19901/tsfile/live/0119_1.m3u8
 http://fxgm.fxjf.work:19901/tsfile/live/0140_1.m3u8
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
 http://fxgm.fxjf.work:19901/tsfile/live/0115_1.m3u8
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="卫视",哈哈炫动
-http://111.75.151.236:50085/newlive/live/hls/52/live.m3u8
 #EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="卫视",延边卫视
 http://fxgm.fxjf.work:19901/tsfile/live/1011_1.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
@@ -657,58 +684,6 @@ https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 http://fxgm.fxjf.work:19901/tsfile/live/1013_1.m3u8
 
 
-
-
-
-#EXTINF:-1 group-title="阿拉伯语" tvg-logo="https://s2.loli.net/2024/01/10/ixlXHDTzABVPrFL.jpg",DW Arabic
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 group-title="阿拉伯语" tvg-logo="https://s2.loli.net/2024/01/10/ZqTXR1LeoyQAd7O.png",BBC Arabic
-https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8
-#EXTINF:-1 group-title="阿拉伯语" tvg-logo="https://s2.loli.net/2024/01/10/ywtO6LZsvXmj4FP.png",Sky News Arabic
-https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 group-title="阿拉伯语" tvg-logo="https://s2.loli.net/2022/10/31/pkSl3YLqWiEeXwF.png",AL Jazeera Arabic
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-
-#EXTINF:-1 group-title="阿拉伯语" tvg-logo="https://s2.loli.net/2022/10/31/pkSl3YLqWiEeXwF.png",AL Jazeera Arabic
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
-#EXTINF:-1 group-title="阿拉伯语" tvg-logo="https://s2.loli.net/2022/10/31/ReiYCUQ31zruZB9.png",AL Arabiya
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 group-title="阿拉伯语" tvg-logo="https://s2.loli.net/2023/09/17/HFrxz3PkN4BqOaL.png",Dubai TV
-https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="阿拉伯语" tvg-logo="https://s2.loli.net/2024/01/10/yE2kzb5i9RM4nWI.png",Al Sharqiya News
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1 group-title="阿拉伯语" tvg-logo="https://s2.loli.net/2024/01/10/RVT5aw1Lj9FsxpP.jpg",Dubai ONE
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione/chunklist_b180000.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="7110" group-title="日语频道" tvg-logo="https://s2.loli.net/2023/09/16/Ps5UK3gqxpCej6a.png",NHK Premium
-https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-#EXTINF:-1 tvg-id="" group-title="日语频道" tvg-logo="https://s2.loli.net/2024/02/07/JdlcC2rRUe9AnFG.png",NHK BSP4K
-https://list.iptvcat.com/my_list/s/6c83e24cf9f6215ba65e6ffe15aa68fc.m3u8
-#EXTINF:-1 tvg-id="" group-title="日语频道" tvg-logo="https://s2.loli.net/2023/01/25/Y7pNAsSc5w4JUD9.png",NHK G
-https://list.iptvcat.com/my_list/s/2e629e3a7323aa8da141f8f190da993a.m3u8
-#EXTINF:-1 tvg-id="" group-title="日语频道" tvg-logo="https://s2.loli.net/2024/02/07/mpOrZ6KAuHSNDG8.jpg",Nippon TV
-https://list.iptvcat.com/my_list/s/0781292a28a8baf407418fed00c17f50.m3u8
-#EXTINF:-1 tvg-id="" group-title="日语频道" tvg-logo="https://s2.loli.net/2023/07/31/orLaDkZ5UC3RAzj.jpg",NTV NEWS
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-
-
-#EXTINF:-1 group-title="日语频道" tvg-logo="https://s2.loli.net/2023/09/16/bPxMjEZOu7JtKla.png",TBS News
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
-#EXTINF:-1 group-title="日语频道" tvg-logo="https://s2.loli.net/2023/09/16/TLy639PbXldCsnt.jpg",ANN NEWS  
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
-#EXTINF:-1 group-title="日语频道" tvg-logo="https://s2.loli.net/2023/09/16/TLy639PbXldCsnt.jpg",ANN NEWS 
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
-#EXTINF:-1 group-title="日语频道" tvg-logo="https://s2.loli.net/2023/01/25/fdrBQS3YKqxj8Ic.png",Fuji TV
-https://fujitv4.mov3.co/hls/fujitv.m3u8
-#EXTINF:-1 group-title="日语频道" tvg-logo="https://s2.loli.net/2023/01/25/EXM5i1o3UGTH4DF.jpg",BS Asahi
-https://list.iptvcat.com/my_list/s/4c479f7c1d548592afa5ae60e836877e.m3u8
-#EXTINF:-1 group-title="日语频道" tvg-logo="https://s2.loli.net/2023/01/26/ugdYvFPxW4DG9fA.png",BS Fuji
-https://list.iptvcat.com/my_list/s/00c1344ec540c5af044cd3df96e8acd0.m3u8
-#EXTINF:-1 group-title="日语频道" tvg-logo="https://s2.loli.net/2023/01/25/umkpGwQobJSe9t5.png",BS Tokyo
-https://list.iptvcat.com/my_list/s/e435cc7ca5fd6eac84db1f958c24af34.m3u8
 
 
 
@@ -756,46 +731,6 @@ https://vgtrkregion.cdnvideo.ru/vgtrk/samara/russia24sd/playlist_sdhigh.m3u8
 
 
 
-#EXTINF:-1,group-title="西班牙语" tvg-logo="https://s2.loli.net/2023/09/22/Wt9iN5jgTuYHJOB.png",Estrella TV
-https://estrellatv-glewed.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="西班牙语" tvg-logo="https://s2.loli.net/2024/01/10/GVn4mU6cfXhIksO.jpg",RT Espanol
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1 group-title="西班牙语" tvg-logo="https://s2.loli.net/2024/01/10/ephBZXPTI3jLrGa.png",DW Espanol
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-id="Qazaqstan.kz" tvg-logo="https://i.imgur.com/oI8g396.png" group-title="哈萨克语",Qazaqstan TV International
-https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
-#EXTINF:-1 tvg-id="KTK.kz" tvg-logo="https://i.imgur.com/BurrNTo.png" group-title="哈萨克语",КТК 
-http://89.218.30.37/ktklive/live.hq/playlist.m3u8
-#EXTINF:-1 tvg-id="QazSport.kz" tvg-logo="https://i.imgur.com/UDJ0P5Q.png" group-title="哈萨克语",QazSport
-https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AbaiTV.kz" tvg-logo="https://i.imgur.com/Nw2R7Dq.png" group-title="哈萨克语",Abai TV
-https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Aqtobe.kz" tvg-logo="https://i.imgur.com/csKl1z6.png" group-title="哈萨克语",Aqtóbe 
-https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
-#EXTINF:-1 tvg-id="AtamekenBusiness.kz" tvg-logo="https://i.imgur.com/CfRvm8i.png" group-title="哈萨克语",Atameken Business 
-http://live-atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="Kokshe.kz" tvg-logo="https://i.imgur.com/pOR3FSR.png" group-title="哈萨克语",Kókshe
-https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
-
-#EXTINF:-1 tvg-id="Qyzyljar.kz" tvg-logo="https://i.imgur.com/7l1WSDJ.png" group-title="哈萨克语",Qyzyljar
-https://stream.kaztrk.kz/regional/petropavltv/index.m3u8
-
-#EXTINF:-1 tvg-id="Saryarqa.kz" tvg-logo="https://i.imgur.com/EIXwi1c.png" group-title="哈萨克语",Saryarqa
-https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
-#EXTINF:-1 tvg-id="MTRK.kz" tvg-logo="https://i.imgur.com/XMyRwDk.png" group-title="哈萨克语",МТРК
-https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
-#EXTINF:-1 tvg-id="Novoetelevidenie.kz" tvg-logo="https://i.imgur.com/mmKWrWs.png" group-title="哈萨克语",Новое телевидение
-http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
-
-
 
 
 #EXTM3U
@@ -815,70 +750,5 @@ http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="成人",Erox HD
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="成人",Nubiles TV HD
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6238/index.m3u
-#EXTINF:-1 group-title="成人",Naughty America
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6237/index.m3u
-#EXTINF:-1 group-title="成人",Playboy Plus
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6242/index.m3u
-#EXTINF:-1 group-title="成人",Private HD
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6245/index.m3u
-#EXTINF:-1 group-title="成人",Public Agent
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6246/index.m3u
-#EXTINF:-1 group-title="成人",RK Prime
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6248/index.m3u
-#EXTINF:-1 group-title="成人",Tiny4K
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6258/index.m3u
-#EXTINF:-1 group-title="成人",True Amateurs
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6260/index.m3u
-#EXTINF:-1 group-title="成人",Hard X
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6218/index.m3u
-#EXTINF:-1 group-title="成人",Hands on Hardcore
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6217/index.m3u
-#EXTINF:-1 group-title="成人",Got MYLF
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6216/index.m3u
-#EXTINF:-1 group-title="成人",Dorcel Club
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6197/index.m3u
-#EXTINF:-1 group-title="成人",Digital Playground HD
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6196/index.m3u
-#EXTINF:-1 group-title="成人",Dusk
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6198/index.m3u
-#EXTINF:-1 group-title="成人",Evil Angel HD
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6199/index.m3u
-#EXTINF:-1 group-title="成人",Digital Desire HD
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6195/index.m3u
-#EXTINF:-1 group-title="成人",DDF Network
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6194/index.m3u
-#EXTINF:-1 group-title="成人",DDF Busty
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6193/index.m3u
-#EXTINF:-1 group-title="成人",Cum Louder
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6189/index.m3u
-#EXTINF:-1 group-title="成人",Brazzers eXXtra
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6181/index.m3u
-#EXTINF:-1 group-title="成人",Blacked HD
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6178/index.m3u
-#EXTINF:-1 group-title="成人",Bang!
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6174/index.m3u
-#EXTINF:-1 group-title="成人",Bang Bros HD
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6173/index.m3u
-#EXTINF:-1 group-title="成人",Babes TV HD
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6172/index.m3u
-#EXTINF:-1 group-title="成人",Cherry Pimps
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6185/index.m3u
-#EXTINF:-1 group-title="成人",Club 17
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6186/index.m3u
-#EXTINF:-1 group-title="成人",Day with a Pornstar
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6192/index.m3u
-#EXTINF:-1 group-title="成人",Hitzefrei HD
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6220/index.m3u
-#EXTINF:-1 group-title="成人",Lethal Hardcore
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6229/index.m3u
-#EXTINF:-1 group-title="成人",MetArt HD
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6233/index.m3u
-#EXTINF:-1 group-title="成人",Vivid Red HD
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/2162/index.m3u
-#EXTINF:-1 group-title="成人",Adult Time
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6166/index.m3u
-
 
 
