@@ -55,14 +55,18 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻" group-title="台湾频道" tvg-logo="https://s2.loli.net/2023/07/30/CjgputfQPOHE5ha.jpg",东森新闻
 http://37.27.111.214:8080/live/20/hls.m3u8
 
+
+
+
 #EXTINF:-1 tvg-id="7176" group-title="台湾频道" tvg-logo="https://s2.loli.net/2023/09/18/WIh4f1lHFexCvNA.jpg",中视新闻(YT)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-#EXTINF:-1 tvg-id="6143" group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/01/09/nCXOKyeUlw7qHMI.png",台视新闻台
-http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+
 #EXTINF:-1 tvg-id="6143" group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/01/09/nCXOKyeUlw7qHMI.png",台视新闻台
 https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 #EXTINF:-1 tvg-id="6143" group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/01/09/nCXOKyeUlw7qHMI.png",台视新闻台(YT)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+
+
 #EXTINF:-1 tvg-id="6071" group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/01/09/dEt5CLrg1R76m3s.jpg",民视新闻台
 https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
 #EXTINF:-1 tvg-id="6071" group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/01/09/dEt5CLrg1R76m3s.jpg",民视新闻台(YT)
@@ -467,7 +471,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV6
-https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
+http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
 
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV7
 https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
@@ -491,7 +495,7 @@ http://fxgm.fxjf.work:19901/tsfile/live/0013_1.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV14
 https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15
-http://fxgm.fxjf.work:19901/tsfile/live/0015_1.m3u8
+http://58.248.112.204:8006/GD_CUCC/G_CCTV-15-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBYyPYgkCWBSIT3aCcBdsAjsuu6MyRrRs1cAsik3e8WER
 
 
 #EXTINF:-1 tvg-id="20" group-title="央视" tvg-logo="https://s2.loli.net/2024/01/31/GkJFVxhRtPXbgCK.png",CGTN
