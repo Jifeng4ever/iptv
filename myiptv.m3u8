@@ -23,7 +23,7 @@ http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="133" tvg-name="无线新闻台" tvg-logo="https://s2.loli.net/2024/07/14/Qj6SdqCzLJFhK74.png" group-title="香港频道",无线财经体育资讯
 http://live.cooltv.top/tv/tvb.php?id=2&hq
-#EXTINF:-1 tvg-id="" tvg-name="无线新闻台" tvg-logo="https://s2.loli.net/2024/01/28/lepvt5DaUbw68dL.jpg" group-title="香港频道",无线娱乐新闻台
+#EXTINF:-1 tvg-id="" tvg-name="无线新闻台" tvg-logo="https://s2.loli.net/2024/07/14/WGw6AzZfVmxb5iN.png" group-title="香港频道",无线娱乐新闻台
 https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="VIU TV" tvg-logo="https://s2.loli.net/2024/07/14/mMjVzlcWZ14aEnN.png" group-title="香港频道",VIU TV
 http://php.jdshipin.com:8880/smt.php?id=viu1_twn
@@ -38,11 +38,11 @@ https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlay
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="HOY 国际财经台" tvg-logo="https://s2.loli.net/2024/01/28/MwPW1VTKN7HEpJ3.png" group-title="香港频道",HOY 国际财经台
+#EXTINF:-1 tvg-id="" tvg-name="HOY 国际财经台" tvg-logo="https://s2.loli.net/2024/01/28/p5IAWDwsmOMPXBq.png" group-title="香港频道",HOY 76台 国际财经
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HOY TV" tvg-logo="https://s2.loli.net/2024/01/28/p5IAWDwsmOMPXBq.png" group-title="香港频道",HOY TV
+#EXTINF:-1 tvg-id="" tvg-name="HOY TV" tvg-logo="https://s2.loli.net/2024/01/28/p5IAWDwsmOMPXBq.png" group-title="香港频道",HOY 77台 TV
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HOY 资讯台" tvg-logo="https://s2.loli.net/2024/01/28/tkEgKc7GVFaIqbD.jpg" group-title="香港频道",HOY 资讯台
+#EXTINF:-1 tvg-id="" tvg-name="HOY 资讯台" tvg-logo="https://s2.loli.net/2024/01/28/p5IAWDwsmOMPXBq.png" group-title="香港频道",HOY 78台 资讯
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 
 
@@ -93,10 +93,8 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 
 #EXTINF:-1 tvg-id="6031" group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png",公视
 https://bsex.serv00.net/Smart.php?id=ctv_taiwan
-
-#EXTINF:-1 tvg-id="6031" group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/14/uqpR9oDFT4xJbdY.png",公视新闻
+#EXTINF:-1 tvg-id="6031" group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png",公视
 http://194.87.101.118/live.m3u8?c=8
-
 
 
 #EXTINF:-1 tvg-id="7135" group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/01/28/PyanpXBFZELQzom.png",民视
@@ -118,18 +116,25 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png" tvg-id="6043" tvg-name="东森幼幼台" group-title="台湾频道",东森幼幼台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/01/09/VujlHZBRWKsEMq5.jpg",中天新闻(YT)
+
+
+#EXTINF:-1 tvg-id="6054" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/14/Qk6mJRXGeKusHqv.png",中天综合
+https://z02.ubtvfans.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
+#EXTINF:-1 tvg-id="6057" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/14/hFs1cYZekGojbQn.png",中天新闻(YT)
 http://194.87.101.118/live.m3u8?c=7
-#EXTINF:-1 tvg-id="" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/01/09/VujlHZBRWKsEMq5.jpg",中天新闻(YT)
+#EXTINF:-1 tvg-id="6057" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/14/hFs1cYZekGojbQn.png",中天新闻(YT)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/02/12/U6eKAZyfso3LOS1.png",中天亚洲台
+#EXTINF:-1 tvg-id="6057" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/02/12/U6eKAZyfso3LOS1.png",中天亚洲台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
 
 
-#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/01/11/FABOQutdEghp2y8.jpg",三立iNews(YT)
+
+#EXTINF:-1 tvg-id="6039" tvg-name="三立新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/14/hwsupJvtgbC7DnH.png",三立综合
+http://shuma04.chunfengyun.top:8080/live/31/hls.m3u8
+#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/14/eYK8th35M7yrDU1.png",三立iNews(YT)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 
-#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/01/11/FABOQutdEghp2y8.jpg",三立iNews(YT)
+#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/14/eYK8th35M7yrDU1.png",三立iNews(YT)
 https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
 
 #EXTINF:-1 tvg-id="6072" tvg-name="三立新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/01/11/FABOQutdEghp2y8.jpg",LIVE三立(YT)
