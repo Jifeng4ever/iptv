@@ -294,12 +294,12 @@ https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 
-#EXTINF:-1 tvg-id="ABC NEWS" tvg-name="ABC NEWS" tvg-logo="https://epg.112114.xyz/logo/ABCNEWS.png" group-title="国际新闻",ABC News Live
+#EXTINF:-1 tvg-id="ABC NEWS" tvg-name="ABC NEWS" tvg-logo="https://s2.loli.net/2024/07/15/KdjJ6AFtM5NXWRv.png" group-title="国际新闻",ABC News 
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 
-#EXTINF:-1 group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/15/GkiNpXx5boDjJWe.jpg",CBS News
+#EXTINF:-1 group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/15/V61hGzOuKWJYXZM.png",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:-1 group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/15/GkiNpXx5boDjJWe.jpg",CBS News
+#EXTINF:-1 group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/15/V61hGzOuKWJYXZM.png",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
 
