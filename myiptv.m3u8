@@ -162,6 +162,8 @@ https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
 #EXTINF:-1 tvg-id="6072" tvg-name="三立新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/01/11/FABOQutdEghp2y8.jpg",LIVE三立(YT)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 
+#EXTINF:-1 tvg-id="6047" tvg-name="三立新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/15/DQmJeEzqnOwXBrd.png",三立台湾台
+https://bsex.serv00.net/Smart.php?id=sanlitaiwan
 
 #EXTINF:-1 tvg-id="6046" tvg-name="三立新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/15/cOqVMXEvu3tRZaW.png",八大综合
 https://bsex.serv00.net/Smart.php?id=badazhonghe
@@ -172,6 +174,11 @@ https://bsex.serv00.net/Smart.php?id=niandainews_twn
 #EXTINF:-1 tvg-id="6076" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/14/Opktw9Z2R4YxPIS.png",非凡新闻
 https://bsex.serv00.net/Smart.php?id=feifannews_twn
 
+#EXTINF:-1 tvg-id="6095" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/15/TJwBW5Mnok1h4Pg.png",纬来日本
+https://bsex.serv00.net/Smart.php?id=videolandjapan
+
+#EXTINF:-1 tvg-id="" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/15/xJWREhC4SVPXtsZ.png",龙祥时代
+https://bsex.serv00.net/Smart.php?id=lungxiangtime_twn
 
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/14/fmADPTJaBtxNIFO.png",镜新闻
 https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
@@ -180,6 +187,8 @@ https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 
 
+#EXTINF:-1 tvg-id="7201" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/15/3fSAVoTOphFlJzx.png",爱尔达影视
+https://bsex.serv00.net/Smart.php?id=eltayingju_twn
 
 #EXTINF:-1 tvg-id="6074" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" tvg-id="6074" tvg-name="TVBS" group-title="台湾频道",TVBS HD
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
@@ -234,13 +243,13 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_10
 #EXTINF:-1 tvg-id="664" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/14/LPG3Qk4ywmIbpzT.jpg",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1 tvg-id="664" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/14/LPG3Qk4ywmIbpzT.jpg",BBC News
+#EXTINF:-1 tvg-id="664" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/15/Ar4D3daUKImfuF9.png",BBC World News
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 
-#EXTINF:-1 tvg-id="664" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/14/LPG3Qk4ywmIbpzT.jpg",BBC News
+#EXTINF:-1 tvg-id="664" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/15/Ar4D3daUKImfuF9.png",BBC World News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="664" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/14/LPG3Qk4ywmIbpzT.jpg",BBC News
+#EXTINF:-1 tvg-id="664" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/15/Ar4D3daUKImfuF9.png",BBC World News
 https://bsex.serv00.net/Smart.php?id=bbcnews_twn
 
 #EXTINF:-1 group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/01/10/ZqTXR1LeoyQAd7O.png",BBC Arabic
@@ -269,6 +278,8 @@ https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/01/10/ywtO6LZsvXmj4FP.png",Sky News Arabic
 https://ythls.armelin.one/channel/UCgJ02VYByDODEIkOlxjg4xg.m3u8
 
+#EXTINF:-1 tvg-id="6097" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/15/PHQTWhJFVwd9B75.png",FOX NEWS
+https://bsex.serv00.net/Smart.php?id=foxnews_twn
 
 #EXTINF:-1 tvg-id="6139" group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/09/16/Em2vYkUwX5u4NCq.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
@@ -552,6 +563,11 @@ http://fxgm.fxjf.work:19901/tsfile/live/0016_1.m3u8
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 #EXTINF:-1 tvg-id="6007" tvg-name="CCTV5" group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV-SPORT.png",辽宁体育
 http://fxgm.fxjf.work:19901/tsfile/live/1003_1.m3u8
+
+#EXTINF:-1 tvg-id="7192" tvg-name="CCTV5" group-title="体育频道" tvg-logo="https://s2.loli.net/2024/07/15/wGnVaZECAbNIyWH.png",爱尔达体育2
+https://bsex.serv00.net/Smart.php?id=eltasport2_twn
+#EXTINF:-1 tvg-id="7213" tvg-name="CCTV5" group-title="体育频道" tvg-logo="https://s2.loli.net/2024/07/15/DLiIg9TBjoU2rs3.png",爱尔达体育3
+https://bsex.serv00.net/Smart.php?id=eltasport3_twn
 #EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://epg.112114.xyz/logo/NBA.png" group-title="体育频道",NBA
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/136
 
