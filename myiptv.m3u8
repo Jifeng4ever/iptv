@@ -66,13 +66,11 @@ https://bsex.serv00.net/Smart.php?id=animalplanet_twn
 #EXTINF:-1 tvg-id="6172" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/15/A9rE5G6TvUCqgJj.png",亚洲旅游台
 https://bsex.serv00.net/Smart.php?id=asiatravel_twn
 
-#EXTINF:-1 tvg-id="6169" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/afc.png",亚洲美食台
+#EXTINF:-1 tvg-id="6169" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/15/dHTODWswPYMIjBe.png",亚洲美食台
 https://bsex.serv00.net/Smart.php?id=afc_twn
-
 
 #EXTINF:-1 tvg-id="6038" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/14/pJLUdtQhoqks8Wf.png",TLC
 https://bsex.serv00.net/Smart.php?id=tlc_twn
-
 
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/14/vjHASChzGsyBbM2.png",寰宇台湾台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
@@ -82,7 +80,6 @@ http://37.27.111.214:8080/live/63/hls.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 #EXTINF:-1 tvg-id="7204" tvg-name="寰宇财经" tvg-logo="https://s2.loli.net/2024/07/14/gzx3mUXkLpacuSy.jpg" group-title="台湾频道",寰宇财经台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
-
 
 
 #EXTINF:-1 tvg-id="6028" group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/01/28/RB8ZMsOl53JDayt.png",中视
@@ -559,7 +556,7 @@ https://jmp2.uk/SamsungTVPlus/ATBA3300007PT.m3u8
 
 #EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://s2.loli.net/2024/07/14/qKH8cIGoh9F3mwn.png" group-title="体育频道",NBC Sport
 https://jmp2.uk/SamsungTVPlus/USBD420002446.m3u8
-#EXTINF:-1 tvg-id="MLB.us" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title=体育频道",MLB
+#EXTINF:-1 tvg-id="MLB.us" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="体育频道",MLB
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a
 #EXTINF:-1 tvg-id="NFLChannel.us" tvg-logo="https://i.imgur.com/mPGtwAP.png" group-title="体育频道",NFL Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
