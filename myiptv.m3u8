@@ -162,6 +162,10 @@ https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
 #EXTINF:-1 tvg-id="6072" tvg-name="三立新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/01/11/FABOQutdEghp2y8.jpg",LIVE三立(YT)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 
+
+#EXTINF:-1 tvg-id="6046" tvg-name="三立新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/15/cOqVMXEvu3tRZaW.png",八大综合
+https://bsex.serv00.net/Smart.php?id=badazhonghe
+
 #EXTINF:-1 tvg-id="6068" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/14/GA4xcFmkYHCozqM.png",年代新闻
 https://bsex.serv00.net/Smart.php?id=niandainews_twn
 
