@@ -655,11 +655,6 @@ http://my.1024.net:84/live/100005/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
 http://my.1024.net:84/live/100018/index.m3u8
 
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
-http://webmail.axxe.top:4022/rtp/239.3.1.130:8004
-
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV5+" group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV16
-http://webmail.axxe.top:4022/rtp/239.3.1.184:8001
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV5+" group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV16
 http://my.1024.net:84/live/100016/index.m3u8
 
@@ -668,9 +663,9 @@ http://my.1024.net:84/live/100016/index.m3u8
 #EXTINF:-1 tvg-id="6007" tvg-name="CCTV5" group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV-SPORT.png",辽宁体育
 http://fxgm.fxjf.work:19901/tsfile/live/1003_1.m3u8
 
-#EXTINF:-1 tvg-id="7192" tvg-name="CCTV5" group-title="体育频道" tvg-logo="https://s2.loli.net/2024/07/15/wGnVaZECAbNIyWH.png",爱尔达体育2
+#EXTINF:-1 tvg-id="9999" tvg-name="CCTV5" group-title="体育频道" tvg-logo="https://s2.loli.net/2024/07/15/wGnVaZECAbNIyWH.png",爱尔达体育2
 https://bsex.serv00.net/Smart.php?id=eltasport2_twn
-#EXTINF:-1 tvg-id="7213" tvg-name="CCTV5" group-title="体育频道" tvg-logo="https://s2.loli.net/2024/07/15/DLiIg9TBjoU2rs3.png",爱尔达体育3
+#EXTINF:-1 tvg-id="9999" tvg-name="CCTV5" group-title="体育频道" tvg-logo="https://s2.loli.net/2024/07/15/DLiIg9TBjoU2rs3.png",爱尔达体育3
 https://bsex.serv00.net/Smart.php?id=eltasport3_twn
 #EXTINF:-1 tvg-id="9999" tvg-name="NBA TV" tvg-logo="https://epg.112114.xyz/logo/NBA.png" group-title="体育频道",NBA
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/136
