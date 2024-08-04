@@ -17,8 +17,7 @@ http://www.cdnstv.com:6398/hls/4/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",CCTV4K
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV6
 http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
@@ -644,13 +643,8 @@ https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",CCTV4K
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
 http://www.cdnstv.com:6398/hls/5/index.m3u8
@@ -658,7 +652,7 @@ http://www.cdnstv.com:6398/hls/5/index.m3u8
 http://my.1024.net:84/live/100005/index.m3u8
 
 
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5+" group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
 http://my.1024.net:84/live/100018/index.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
