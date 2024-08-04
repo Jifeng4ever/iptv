@@ -653,7 +653,7 @@ http://my.1024.net:84/live/100005/index.m3u8
 
 
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
-http://111.160.17.2:59901/tsfile/live/0016_1.m3u8
+http://180.213.163.213:8000/udp/225.1.1.121:5002
 
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV5+" group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV16
 http://180.213.163.213:8000/udp/225.1.2.237:5002
