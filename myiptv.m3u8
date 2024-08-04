@@ -654,7 +654,8 @@ http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 http://www.cdnstv.com:6398/hls/5/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
 http://my.1024.net:84/live/100005/index.m3u8
-
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
+http://180.213.163.213:8000/udp/225.1.1.160:5002
 
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" group-title="体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
 http://180.213.163.213:8000/udp/225.1.1.121:5002
