@@ -33,7 +33,15 @@ http://www.cdnstv.com:6398/hls/14/index.m3u8
 http://www.cdnstv.com:6398/hls/15/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV17
 http://www.cdnstv.com:6398/hls/16/index.m3u8
-#EXTINF:-1 tvg-id="73" tvg-name="CCTV15" group-title="央视" tvg-logo="https://s2.loli.net/2024/08/04/ypoHtGf79WICjuV.png",CETV1
+
+
+#EXTINF:-1 tvg-id="22" tvg-name="CCTV4欧洲" group-title="央视" tvg-logo="https://s2.loli.net/2024/08/05/Q3S9fkFIJuOblj8.png",CCTV4欧洲
+rtsp://10.255.4.88/PLTV/88888888/224/3221226741/10000100000000060000000006582740_0.smil
+
+#EXTINF:-1 tvg-id="23" tvg-name="CCTV美洲" group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png",CCTV4美洲
+rtsp://10.255.4.88/PLTV/88888888/224/3221226762/10000100000000060000000006582745_0.smil
+
+#EXTINF:-1 tvg-id="73" tvg-name="CETV1" group-title="央视" tvg-logo="https://s2.loli.net/2024/08/04/ypoHtGf79WICjuV.png",CETV1
 http://www.cdnstv.com:6398/hls/16/index.m3u8
 
 
