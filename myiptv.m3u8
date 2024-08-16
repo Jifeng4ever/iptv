@@ -53,6 +53,12 @@ https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlay
 #EXTINF:-1 tvg-id="9999" tvg-name="RTHK 32" tvg-logo="https://s2.loli.net/2024/07/14/7FPA6M1mvJnlSop.png" group-title="香港频道",RTHK 32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 
+#EXTINF:-1 tvg-id="9999" tvg-name="RTHK 33" tvg-logo="https://s2.loli.net/2024/08/16/97Xhcu43MtjYkf5.png" group-title="香港频道",RTHK 33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="9999" tvg-name="RTHK 34" tvg-logo="https://s2.loli.net/2024/08/16/WKZ39uxQPA7pcEe.png" group-title="香港频道",RTHK 34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+
 
 #EXTINF:-1 tvg-id="9999" tvg-name="HOY 国际财经台" tvg-logo="https://s2.loli.net/2024/01/28/p5IAWDwsmOMPXBq.png" group-title="香港频道",HOY 76台 国际财经台
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
@@ -70,7 +76,7 @@ https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 
 
 #EXTINF:-1 tvg-id="6037" group-title="台湾频道" tvg-logo="https://s2.loli.net/2023/09/17/WymKkRhuMaQcYt7.png",探索频道
-https://z02.ubtvfans.com/live/rx1/1035/0081cba3900d45c5a31c20b53ef72e28/index.m3u8
+http://61.221.215.25:8800/hls/1/index.m3u8
 #EXTINF:-1 tvg-id="6166" group-title="台湾频道" tvg-logo="https://s2.loli.net/2023/09/16/YJZ1HL2KcBQIiVx.png",探索亚洲频道
 http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:-1 tvg-id="6170" group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/14/1Fz8fdpxbKUBcP2.png",DMAX
@@ -393,20 +399,8 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="6023" group-title="国际新闻" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png",CNN
+http://doubleclicktv.live:80/70376812/52663544/1041
 #EXTINF:-1 tvg-id="6023" group-title="国际新闻" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png",CNN
 https://jmp2.uk/SamsungTVPlus/GBBD8000016N.m3u8
 #EXTINF:-1 tvg-id="6023" group-title="国际新闻" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png",CNN
@@ -420,7 +414,11 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_10
 
 #EXTINF:-1 tvg-id="664" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/15/sIBhzW13rcupDko.png",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="664" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/15/sIBhzW13rcupDko.png",BBC News
+http://doubleclicktv.live/70376812/52663544/277195
 
+#EXTINF:-1 tvg-id="664" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/15/sIBhzW13rcupDko.png",BBC News Asia Pacific
+http://doubleclicktv.live:80/70376812/52663544/1065
 #EXTINF:-1 tvg-id="664" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/15/sIBhzW13rcupDko.png",BBC News Asia Pacific
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 
@@ -438,6 +436,8 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
 
 #EXTINF:-1 tvg-id="9999" tvg-logo="https://s2.loli.net/2023/07/30/6ARUSd4g58Ls1rQ.png" group-title="国际新闻",TRT World
 http://210.210.155.35/uq2663/h/h156/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=TRT_World
+#EXTINF:-1 tvg-id="9999" tvg-logo="https://s2.loli.net/2023/07/30/6ARUSd4g58Ls1rQ.png" group-title="国际新闻",TRT World
+http://doubleclicktv.live/70376812/52663544/277180
 
 #EXTINF:-1 tvg-id="730" group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/07/30/v7HFn3PAJ5Tfpru.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -448,6 +448,8 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
 #EXTINF:-1 tvg-id="742" group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/07/30/QO1UVGFkMI7vEwd.png",SKY News(YT)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+#EXTINF:-1 tvg-id="742" group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/07/30/QO1UVGFkMI7vEwd.png",SKY News
+http://doubleclicktv.live/70376812/52663544/277190
 #EXTINF:-1 tvg-id="742" group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/07/30/QO1UVGFkMI7vEwd.png",SKY News
 https://jmp2.uk/SamsungTVPlus/USBB52000022Q.m3u8
 
@@ -460,7 +462,7 @@ https://stream.skynewsarabia.com/hls/sna.m3u8
 https://ythls.armelin.one/channel/UCgJ02VYByDODEIkOlxjg4xg.m3u8
 
 #EXTINF:-1 tvg-id="6097" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/15/PHQTWhJFVwd9B75.png",FOX NEWS
-https://bsex.serv00.net/Smart.php?id=foxnews_twn
+http://doubleclicktv.live:80/70376812/52663544/1038
 #EXTINF:-1 tvg-id="9999" tvg-name="FoxNews" tvg-logo="https://s2.loli.net/2024/01/11/ClWy73jbrhu5dRw.jpg" group-title="国际新闻",Live Now FOX News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
@@ -783,11 +785,11 @@ http://fxgm.fxjf.work:19901/tsfile/live/1003_1.m3u8
 
 
 #EXTINF:-1 tvg-id="9999" tvg-name="爱尔达体育1" group-title="体育频道" tvg-logo="https://s2.loli.net/2024/08/04/u1DTS9tmVfeJOFh.png",爱尔达体育1
-http://cdn9.1678520.xyz/xsj2.1.php?id=elta-sport1
+http://fm1077.serv00.net/Smart.php?id=eltasport1_twn
 #EXTINF:-1 tvg-id="9999" tvg-name="爱尔达体育2" group-title="体育频道" tvg-logo="https://s2.loli.net/2024/07/15/wGnVaZECAbNIyWH.png",爱尔达体育2
-http://cdn9.1678520.xyz/xsj2.1.php?id=elta-sport2
+http://fm1077.serv00.net/Smart.php?id=eltasport2_twn
 #EXTINF:-1 tvg-id="9999" tvg-name="爱尔达体育3" group-title="体育频道" tvg-logo="https://s2.loli.net/2024/07/15/DLiIg9TBjoU2rs3.png",爱尔达体育3
-http://cdn9.1678520.xyz/xsj2.1.php?id=elta-sport3
+http://fm1077.serv00.net/Smart.php?id=eltasport3_twn
 
 
 #EXTINF:-1 tvg-id="9999" tvg-name="NBA TV" tvg-logo="https://epg.112114.xyz/logo/NBA.png" group-title="体育频道",NBA
