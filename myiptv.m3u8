@@ -90,31 +90,39 @@ https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 tvg-id="6028" group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/01/28/RB8ZMsOl53JDayt.png",中视
 http://37.27.111.214:8080/live/7/hls.m3u8
 #EXTINF:-1 tvg-id="6028" group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/01/28/RB8ZMsOl53JDayt.png",中视
-http://209.146.124.22:8891/litv/4gtv-4gtv040
-
+http://95.179.139.113:5566/4gtv/4
 #EXTINF:-1 tvg-id="7176" group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/14/6JPO3yvT4rEjAIq.png",中视新闻
-http://209.146.124.22:8891/litv/4gtv-4gtv074
+http://95.179.139.113:5566/4gtv/258
+#EXTINF:-1 tvg-id="7176" group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/14/6JPO3yvT4rEjAIq.png",中视新闻
+http://95.179.139.113:5566/4gtv/33
 #EXTINF:-1 tvg-id="7136" tvg-name="中视菁采台" tvg-logo="https://s2.loli.net/2024/08/17/IxT7LV5egpnwdBk.png" group-title="台湾频道",中视菁采台
-http://209.146.124.22:8891/litv/4gtv-4gtv064
+http://95.179.139.113:5566/4gtv/123
 #EXTINF:-1 tvg-id="7172" tvg-name="中视经典" tvg-logo="https://s2.loli.net/2024/08/17/qhHUW9ILo6QfyZt.png" group-title="台湾频道",中视经典台
-http://209.146.124.22:8891/litv/4gtv-4gtv080
+http://95.179.139.113:5566/4gtv/124
+
+
+
+#EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="台湾频道",TVBS HD
+http://95.179.139.113:5566/4gtv/183
 
 #EXTINF:-1 tvg-id="6073" group-title="台湾频道" tvg-logo="https://s2.loli.net/2023/07/30/cWbO3RrVMFu9fnI.png",TVBS新闻台
-http://209.146.124.22:8891/litv/4gtv-4gtv072
+http://95.179.139.113:5566/4gtv/291
 #EXTINF:-1 tvg-id="6060" tvg-logo="https://s2.loli.net/2024/08/02/Le1niCAQZPFt6hV.png" tvg-name="人间卫视" group-title="台湾频道",TVBS 欢乐台
-http://209.146.124.22:8891/litv/4gtv-4gtv068
+http://95.179.139.113:5566/4gtv/184
 #EXTINF:-1 tvg-id="6060" tvg-logo="https://s2.loli.net/2024/08/02/Le1niCAQZPFt6hV.png" tvg-name="人间卫视" group-title="台湾频道",TVBS 欢乐台
 http://37.27.111.214:8080/live/24/hls.m3u8
-#EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="台湾频道",TVBS HD
-http://209.146.124.22:8891/litv/4gtv-4gtv073
+
 #EXTINF:-1 tvg-id="7138" tvg-name="TVBS精采台" tvg-logo="https://s2.loli.net/2024/08/17/2yMs18bDjUmWAIK.png" group-title="台湾频道",TVBS 精采台
-http://209.146.124.22:8891/litv/4gtv-4gtv067
+http://95.179.139.113:5566/4gtv/227
 #EXTINF:-1 tvg-id="6029" tvg-logo="https://i.imgur.com/4S1rkhm.png"  tvg-name="人间卫视" group-title="台湾频道",TVBS Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+
 #EXTINF:-1 tvg-id="9999" tvg-name="TVBS精采台" tvg-logo="https://s2.loli.net/2024/08/17/nVdjxo94J1XPACW.png" group-title="台湾频道",TVBS 台剧台
-http://209.146.124.22:8891/4gtv/285
+http://95.179.139.113:5566/4gtv/285
 #EXTINF:-1 tvg-id="9999" group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/08/18/5UD4IFkZ1oVOz9E.png",TVBS 綜藝台
-http://209.146.124.22:8891/4gtv/284
+http://95.179.139.113:5566/4gtv/284
+
+
 
 
 
@@ -124,11 +132,10 @@ http://209.146.124.22:8891/4gtv/284
 #EXTINF:-1 tvg-id="6054" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/14/Qk6mJRXGeKusHqv.png",中天综合
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8526/.m3u8
 #EXTINF:-1 tvg-id="6057" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/14/hFs1cYZekGojbQn.png",中天新闻
-http://209.146.124.22:8891/litv/4gtv-4gtv009
+http://95.179.139.113:5566/4gtv/30
 #EXTINF:-1 tvg-id="6057" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/02/12/U6eKAZyfso3LOS1.png",中天亚洲台
 http://209.146.124.22:8891/litv/4gtv-4gtv109
-#EXTINF:-1 tvg-id="6057" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/02/12/U6eKAZyfso3LOS1.png",中天亚洲台
-https://test.zapi.us.kg/?id=cti-asia
+
 
 
 
@@ -139,9 +146,11 @@ https://test.zapi.us.kg/?id=cti-asia
 #EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台湾频道",华视
 http://37.27.111.214:8080/live/8/hls.m3u8
 #EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台湾频道",华视
-http://209.146.124.22:8891/litv/4gtv-4gtv041
+http://95.179.139.113:5566/4gtv/6
 #EXTINF:-1 tvg-id="9999" tvg-name="华视" tvg-logo="https://s2.loli.net/2024/07/14/BxR2QgqKkhmdrLw.png" group-title="台湾频道",华视新闻
-http://209.146.124.22:8891/litv/4gtv-4gtv052
+http://95.179.139.113:5566/4gtv/34
+
+
 
 
 
@@ -156,27 +165,30 @@ http://209.146.124.22:8891/litv/4gtv-4gtv056
 
 
 
+
+
 #EXTINF:-1 tvg-id="6031" group-title="台湾频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png",公视
 https://test.zapi.us.kg/?id=pts-ty
 
 
 
 #EXTINF:-1 tvg-id="7135" group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/01/28/PyanpXBFZELQzom.png",民视
-http://209.146.124.22:8891/litv/4gtv-4gtv155
+http://95.179.139.113:5566/4gtv/246
 #EXTINF:-1 tvg-id="7135" group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/01/28/PyanpXBFZELQzom.png",民视
 http://37.27.111.214:8080/live/6/hls.m3u8
+
 #EXTINF:-1 tvg-id="6071" group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/14/ZE6bPRimHzKwl9X.png",民视新闻台
-http://209.146.124.22:8891/litv/litv-ftv13
+http://95.179.139.113:5566/4gtv/257
 #EXTINF:-1 tvg-id="7133" tvg-name="民视第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png" group-title="台湾频道",民视第一台
-http://209.146.124.22:8891/litv/4gtv-4gtv003
+http://95.179.139.113:5566/4gtv/1
 #EXTINF:-1 tvg-id="7134" tvg-name="民视台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="台湾频道",民视台湾台
-http://209.146.124.22:8891/litv/4gtv-4gtv001
+http://95.179.139.113:5566/4gtv/2
 #EXTINF:-1 tvg-id="7145" tvg-name="民视综艺台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png" group-title="台湾频道",民视综艺台
-http://209.146.124.22:8891/litv/4gtv-4gtv004
+http://95.179.139.113:5566/4gtv/16
 #EXTINF:-1 tvg-id="9999" tvg-name="民视影剧台" tvg-logo="https://s2.loli.net/2024/08/17/To4lk8hn3pv69QX.jpg" group-title="台湾频道",民视影剧台
-http://209.146.124.22:8891/litv/litv-ftv09
+http://95.179.139.113:5566/4gtv/24
 #EXTINF:-1 tvg-id="9999" tvg-name="民视影剧台" tvg-logo="https://s2.loli.net/2024/08/17/EyZhFUbxLzkR5sm.png" group-title="台湾频道",民视旅游台
-http://209.146.124.22:8891/litv/litv-ftv07
+http://95.179.139.113:5566/4gtv/61
 
 
 
@@ -188,9 +200,6 @@ https://test.zapi.us.kg/?id=hbo-hits-hd
 https://test.zapi.us.kg/?id=now-hbo-signature
 #EXTINF:-1 tvg-id="6155" group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/08/21/VATj9gNuFbqo2E7.png",HBO Family
 https://test.zapi.us.kg/?id=hbo-family
-
-
-
 
 #EXTINF:-1 tvg-id="6037" group-title="台湾频道" tvg-logo="https://s2.loli.net/2023/09/17/WymKkRhuMaQcYt7.png",探索频道
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8510/.m3u8
@@ -230,17 +239,14 @@ http://209.146.124.22:8891/4gtv/186
 
 
 
-
-
-
-
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻" group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/14/26wGiWDnBC9lNau.png",东森新闻
 http://37.27.111.214:8080/live/20/hls.m3u8
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻" group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/14/26wGiWDnBC9lNau.png",东森新闻
-http://209.146.124.22:8891/litv/4gtv-4gtv152
+http://95.179.139.113:5566/4gtv/292
 
 #EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻" group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/01/10/Hq8BipWXJhmycbU.png",东森财经新闻
-http://209.146.124.22:8891/litv/4gtv-4gtv153
+http://95.179.139.113:5566/4gtv/293
+
 #EXTINF:-1 tvg-id="6084" tvg-name="东森洋片" group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/15/KyTrAsCmNx17e2E.png",东森洋片
 https://test.zapi.us.kg/?id=ebc-emovie
 #EXTINF:-1 tvg-id="6080" tvg-name="东森电影" group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/15/7ypTHhlF5GmcXuv.png",东森电影
@@ -249,20 +255,20 @@ https://test.zapi.us.kg/?id=ebc-movie
 #EXTINF:-1 tvg-id="6058" tvg-name="东森戏剧" group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/08/21/ejShNtPCxTZHpcz.png",东森戏剧
 https://test.zapi.us.kg/?id=ebc-drama
 
-#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/14/vjHASChzGsyBbM2.png",寰宇新闻台
-http://209.146.124.22:8891/litv/litv-longturn14
 
+
+
+
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/14/vjHASChzGsyBbM2.png",寰宇新闻台
+http://95.179.139.113:5566/4gtv/36
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/14/vjHASChzGsyBbM2.png",寰宇台湾台
 http://37.27.111.214:8080/live/63/hls.m3u8
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/14/vjHASChzGsyBbM2.png",寰宇台湾台
-http://209.146.124.22:8891/litv/litv-longturn15
-
-
-
+http://95.179.139.113:5566/4gtv/280
 #EXTINF:-1 tvg-id="7204" tvg-name="寰宇财经" tvg-logo="https://s2.loli.net/2024/07/14/gzx3mUXkLpacuSy.jpg" group-title="台湾频道",寰宇财经台
 http://37.27.111.214:8080/live/65/hls.m3u8
 #EXTINF:-1 tvg-id="7204" tvg-name="寰宇财经" tvg-logo="https://s2.loli.net/2024/07/14/gzx3mUXkLpacuSy.jpg" group-title="台湾频道",寰宇财经台
-http://209.146.124.22:8891/litv/litv-longturn23
+http://95.179.139.113:5566/4gtv/281
 
 
 
