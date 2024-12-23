@@ -5,8 +5,13 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文台" tvg-logo="https://s2.loli.net/2024/07/14/QUzcGSDgbZ6eRFo.png" group-title="港澳频道",凤凰中文台
 https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+
+
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港台" tvg-logo="https://s2.loli.net/2023/01/07/gUnrS46sjVlCuwf.png" group-title="港澳频道",凤凰香港台
-https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
+http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="9999" tvg-name="澳视澳门" tvg-logo="https://s2.loli.net/2024/08/12/pW9gEa6Cusmcq7w.png" group-title="港澳频道",澳视澳门
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
@@ -142,7 +147,7 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
 #EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://s2.loli.net/2023/01/25/Y7pNAsSc5w4JUD9.png",NHK G
-https://test.zapi.us.kg/?id=nhk-g
+https://nhk4.mov3.co/hls/nhk.m3u8
 
 #EXTINF:-1 tvg-id="7100" group-title="国际频道" tvg-logo="https://s2.loli.net/2024/07/15/XgCmJUM6BI1Rhry.png",ABC News Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
@@ -165,7 +170,7 @@ https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="734" group-title="国际频道" tvg-logo="https://s2.loli.net/2024/07/14/yQNdIlzvH34BeXc.png",France24 English
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
+http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
 
 
 #EXTINF:-1 tvg-id="6140" group-title="国际频道" tvg-logo="https://s2.loli.net/2024/07/14/ElkJXWse9dOpn5j.png",Bloomberg Asia
@@ -342,6 +347,15 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 tvg-id="9999" tvg-logo="https://epg.112114.xyz/logo/LS.png" group-title="国际频道",Love Stories
 https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/18a65393-ba3b-4912-90d5-7188c128ac66/3.m3u8
+
+#EXTINF:-1 tvg-id="6057" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/14/hFs1cYZekGojbQn.png",中天新闻
+http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/14/vjHASChzGsyBbM2.png",寰宇新闻台
+http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+#EXTINF:-1 tvg-id="6057" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/02/12/U6eKAZyfso3LOS1.png",中天亚洲台
+http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+
+
 
 
 
