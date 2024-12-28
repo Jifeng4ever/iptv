@@ -1,86 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳频道",凤凰资讯台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文台" tvg-logo="https://s2.loli.net/2024/07/14/QUzcGSDgbZ6eRFo.png" group-title="港澳频道",凤凰中文台
-https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-
-
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港台" tvg-logo="https://s2.loli.net/2023/01/07/gUnrS46sjVlCuwf.png" group-title="港澳频道",凤凰香港台
-http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="9999" tvg-name="澳视澳门" tvg-logo="https://s2.loli.net/2024/08/12/pW9gEa6Cusmcq7w.png" group-title="港澳频道",澳视澳门
-http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-
-#EXTINF:-1 tvg-id="9999" tvg-name="澳门Macau" tvg-logo="https://s2.loli.net/2024/08/12/pW9gEa6Cusmcq7w.png" group-title="港澳频道",澳门Macau
-http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-
-#EXTINF:-1 tvg-id="9999" tvg-name="澳门资讯" tvg-logo="https://s2.loli.net/2024/08/12/pW9gEa6Cusmcq7w.png" group-title="港澳频道",澳门资讯
-http://61.244.22.4/ch5/info_ch5.live/master.m3u8
-
-#EXTINF:-1 tvg-id="412" tvg-name="香港卫视" tvg-logo="https://s2.loli.net/2024/07/14/iRlzBkXdtCgPUVc.png" group-title="港澳频道",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://s2.loli.net/2023/08/06/dbWMTuQRxKsZ2y1.png" group-title="港澳频道",翡翠台
-http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="https://s2.loli.net/2024/07/14/TgfN2vtuHUJjOmP.png" group-title="港澳频道",TVB PLUS
-http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻台" tvg-logo="https://s2.loli.net/2024/07/14/1bi62wSfmyaIO7V.png" group-title="港澳频道",无线新闻台
-http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://s2.loli.net/2024/07/14/FSn9UsXYbgRxmyi.png" group-title="港澳频道",明珠台
-http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="408" tvg-name="VIU TV" tvg-logo="https://s2.loli.net/2024/07/14/mMjVzlcWZ14aEnN.png" group-title="港澳频道",VIU TV
-http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-#EXTINF:-1 tvg-id="9999" tvg-name="VIU6 TV" tvg-logo="https://s2.loli.net/2024/07/14/ezPp34g8a1LwKoV.png" group-title="港澳频道",VIU6 TV
-http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-
-#EXTINF:-1 tvg-id="145" tvg-name="VIU6 TV" tvg-logo="https://s2.loli.net/2024/07/15/ZvmnoJuD5Aqc6OW.png" group-title="港澳频道",美亚电影
-http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-
-#EXTINF:-1 tvg-id="9999" tvg-name="RTHK 31" tvg-logo="https://s2.loli.net/2024/07/14/ZourSAGYhHiNTQW.png" group-title="港澳频道",RTHK 31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
-
-#EXTINF:-1 tvg-id="9999" tvg-name="RTHK 32" tvg-logo="https://s2.loli.net/2024/07/14/7FPA6M1mvJnlSop.png" group-title="港澳频道",RTHK 32
-https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-
-#EXTINF:-1 tvg-id="9999" tvg-name="RTHK 33" tvg-logo="https://s2.loli.net/2024/08/19/hPZT6zGuk3OmSjr.png" group-title="港澳频道",RTHK 33
-https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-
-#EXTINF:-1 tvg-id="9999" tvg-name="RTHK 34" tvg-logo="https://s2.loli.net/2024/08/16/WKZ39uxQPA7pcEe.png" group-title="港澳频道",RTHK 34
-https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-
-
-#EXTINF:-1 tvg-id="9999" tvg-name="HOY 国际财经台" tvg-logo="https://s2.loli.net/2024/01/28/p5IAWDwsmOMPXBq.png" group-title="港澳频道",HOY 76台 国际财经台
-https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-#EXTINF:-1 tvg-id="9999" tvg-name="HOY TV" tvg-logo="https://s2.loli.net/2024/01/28/p5IAWDwsmOMPXBq.png" group-title="港澳频道",HOY 77台 TV
-https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-#EXTINF:-1 tvg-id="9999" tvg-name="HOY 资讯台" tvg-logo="https://s2.loli.net/2024/01/28/p5IAWDwsmOMPXBq.png" group-title="港澳频道",HOY 78台 资讯台
-https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png",CNN
 http://doubleclicktv.live:80/70376812/52663544/1041
 
@@ -313,21 +232,6 @@ https://vgtrkregion.cdnvideo.ru/vgtrk/krasnodar/russia1sd/playlist_sdhigh.m3u8
 
 #EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://s2.loli.net/2024/08/12/kxQvgpfanZJCdUc.png",NTV 
 https://cdn2.skygo.mn/live/disk1/NTVHD/HLS-FTA/NTVHD.m3u8
-#EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://s2.loli.net/2024/02/07/JdlcC2rRUe9AnFG.png",NHK BSP4K
-https://list.iptvcat.com/my_list/s/6c83e24cf9f6215ba65e6ffe15aa68fc.m3u8
-#EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://s2.loli.net/2023/01/25/fdrBQS3YKqxj8Ic.png",Fuji TV
-https://fujitv4.mov3.co/hls/fujitv.m3u8
-#EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://s2.loli.net/2023/01/25/EXM5i1o3UGTH4DF.jpg",BS Asahi
-https://list.iptvcat.com/my_list/s/4c479f7c1d548592afa5ae60e836877e.m3u8
-#EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://s2.loli.net/2023/01/26/ugdYvFPxW4DG9fA.png",BS Fuji
-https://list.iptvcat.com/my_list/s/00c1344ec540c5af044cd3df96e8acd0.m3u8
-#EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://s2.loli.net/2023/01/25/umkpGwQobJSe9t5.png",BS Tokyo
-https://list.iptvcat.com/my_list/s/e435cc7ca5fd6eac84db1f958c24af34.m3u8
-#EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://s2.loli.net/2023/01/25/Y7pNAsSc5w4JUD9.png",NHK G
-https://list.iptvcat.com/my_list/s/2e629e3a7323aa8da141f8f190da993a.m3u8
-
-#EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://s2.loli.net/2024/02/07/mpOrZ6KAuHSNDG8.jpg",Nippon TV
-https://list.iptvcat.com/my_list/s/0781292a28a8baf407418fed00c17f50.m3u8
 
 
 #EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png",KBS World
@@ -351,6 +255,81 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 tvg-id="9999" tvg-logo="https://epg.112114.xyz/logo/LS.png" group-title="国际频道",Love Stories
 https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/18a65393-ba3b-4912-90d5-7188c128ac66/3.m3u8
+
+
+
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳频道",凤凰资讯台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文台" tvg-logo="https://s2.loli.net/2024/07/14/QUzcGSDgbZ6eRFo.png" group-title="港澳频道",凤凰中文台
+https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+
+
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港台" tvg-logo="https://s2.loli.net/2023/01/07/gUnrS46sjVlCuwf.png" group-title="港澳频道",凤凰香港台
+http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="9999" tvg-name="澳视澳门" tvg-logo="https://s2.loli.net/2024/08/12/pW9gEa6Cusmcq7w.png" group-title="港澳频道",澳视澳门
+http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+
+#EXTINF:-1 tvg-id="9999" tvg-name="澳门Macau" tvg-logo="https://s2.loli.net/2024/08/12/pW9gEa6Cusmcq7w.png" group-title="港澳频道",澳门Macau
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+
+#EXTINF:-1 tvg-id="9999" tvg-name="澳门资讯" tvg-logo="https://s2.loli.net/2024/08/12/pW9gEa6Cusmcq7w.png" group-title="港澳频道",澳门资讯
+http://61.244.22.4/ch5/info_ch5.live/master.m3u8
+
+#EXTINF:-1 tvg-id="412" tvg-name="香港卫视" tvg-logo="https://s2.loli.net/2024/07/14/iRlzBkXdtCgPUVc.png" group-title="港澳频道",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://s2.loli.net/2023/08/06/dbWMTuQRxKsZ2y1.png" group-title="港澳频道",翡翠台
+http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="https://s2.loli.net/2024/07/14/TgfN2vtuHUJjOmP.png" group-title="港澳频道",TVB PLUS
+http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻台" tvg-logo="https://s2.loli.net/2024/07/14/1bi62wSfmyaIO7V.png" group-title="港澳频道",无线新闻台
+http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://s2.loli.net/2024/07/14/FSn9UsXYbgRxmyi.png" group-title="港澳频道",明珠台
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="408" tvg-name="VIU TV" tvg-logo="https://s2.loli.net/2024/07/14/mMjVzlcWZ14aEnN.png" group-title="港澳频道",VIU TV
+http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="VIU6 TV" tvg-logo="https://s2.loli.net/2024/07/14/ezPp34g8a1LwKoV.png" group-title="港澳频道",VIU6 TV
+http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="145" tvg-name="VIU6 TV" tvg-logo="https://s2.loli.net/2024/07/15/ZvmnoJuD5Aqc6OW.png" group-title="港澳频道",美亚电影
+http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="9999" tvg-name="RTHK 31" tvg-logo="https://s2.loli.net/2024/07/14/ZourSAGYhHiNTQW.png" group-title="港澳频道",RTHK 31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="9999" tvg-name="RTHK 32" tvg-logo="https://s2.loli.net/2024/07/14/7FPA6M1mvJnlSop.png" group-title="港澳频道",RTHK 32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="9999" tvg-name="RTHK 33" tvg-logo="https://s2.loli.net/2024/08/19/hPZT6zGuk3OmSjr.png" group-title="港澳频道",RTHK 33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="9999" tvg-name="RTHK 34" tvg-logo="https://s2.loli.net/2024/08/16/WKZ39uxQPA7pcEe.png" group-title="港澳频道",RTHK 34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+
+
+#EXTINF:-1 tvg-id="9999" tvg-name="HOY 国际财经台" tvg-logo="https://s2.loli.net/2024/01/28/p5IAWDwsmOMPXBq.png" group-title="港澳频道",HOY 76台 国际财经台
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="HOY TV" tvg-logo="https://s2.loli.net/2024/01/28/p5IAWDwsmOMPXBq.png" group-title="港澳频道",HOY 77台 TV
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="HOY 资讯台" tvg-logo="https://s2.loli.net/2024/01/28/p5IAWDwsmOMPXBq.png" group-title="港澳频道",HOY 78台 资讯台
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="6057" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/14/hFs1cYZekGojbQn.png",中天新闻
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
