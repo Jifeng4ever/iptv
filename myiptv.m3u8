@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png",CNN
+#EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://s2.loli.net/2025/02/19/Thn67Bkam58t4iC.png",CNN
 http://doubleclicktv.live:80/70376812/52663544/1041
 
-#EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png",CNN
+#EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://s2.loli.net/2025/02/19/Thn67Bkam58t4iC.png",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 
 #EXTINF:-1 tvg-id="664" group-title="国际频道" tvg-logo="https://s2.loli.net/2022/10/05/deyuSkHN8pI7FDZ.jpg",BBC News
