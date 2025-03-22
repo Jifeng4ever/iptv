@@ -39,7 +39,7 @@ https://vgtrkregion.cdnvideo.ru/vgtrk/tumen/russia24sd/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="7183" group-title="国际频道" tvg-logo="https://s2.loli.net/2024/07/14/ZvSIlLhHJGy9PDw.png",AL Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="6113" group-title="国际频道" tvg-logo="https://s2.loli.net/2023/07/30/nQyJURF46m92cOh.png",NHK World
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+http://aktv_stream1.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
 #EXTINF:-1 tvg-id="7110" group-title="国际频道" tvg-logo="https://s2.loli.net/2023/09/16/Ps5UK3gqxpCej6a.png",NHK Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 tvg-id="7100" group-title="国际频道" tvg-logo="https://s2.loli.net/2024/07/15/XgCmJUM6BI1Rhry.png",ABC News Australia
@@ -130,10 +130,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://s2.loli.net/2023/07/31/orLaDkZ5UC3RAzj.jpg",NTV NEWS
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
-#EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://s2.loli.net/2024/08/21/65goyZ2KV9SCJfk.png",KBS NEWS
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
-#EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://s2.loli.net/2024/07/14/SbUXZ1cEwGYF7J5.jpg",SBS NEWS
-https://ythls.armelin.one/channel/UC0Um3pnZ2WGBEeoA3BX2sKw.m3u8
+
 
 #EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://s2.loli.net/2024/08/12/8PkBxTuqI9HzYAi.jpg",Eagle News
 https://cdn2.skygo.mn/live/disk1/Eagle/HLS-FTA/Eagle.m3u8
@@ -179,12 +176,10 @@ https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
 http://91.247.68.229:8000/play/Fashion/index.m3u8
 
 
-#EXTINF:-1 tvg-id="9999" tvg-name="Animal Planet" tvg-logo="https://s2.loli.net/2023/09/16/hH5ja3u7KIQrPMY.png" group-title="国际频道",Animal Planet
-http://45.159.74.14:80/AnimalPlanet/index.m3u8
-#EXTINF:-1 tvg-id="9999" tvg-name="Discovery" tvg-logo="https://s2.loli.net/2023/09/17/WymKkRhuMaQcYt7.png" group-title="国际频道",Discovery Channel
-http://45.159.74.14:80/DiscoveryChannel/index.m3u8
+
 #EXTINF:-1 tvg-id="9999" tvg-name="Discovery" tvg-logo="https://s2.loli.net/2023/09/17/WymKkRhuMaQcYt7.png" group-title="国际频道",Discovery Channel
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id=7152"Animal Planet" tvg-name="Animal Planet" tvg-logo="https://s2.loli.net/2024/07/14/WvSY8XaAupIQoMg.png" group-title="国际频道",History
 https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
 #EXTINF:-1 tvg-id="9999" tvg-name="Animal Planet" tvg-logo="https://s2.loli.net/2024/07/14/UaLKN9vG4Y6EhV3.png" group-title="国际频道",NAT GEO
@@ -196,11 +191,6 @@ http://streamsy.online:2999/coachj88/N93DPKS9pJ/141
 https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="9999"Animal Planet" tvg-name="CN" tvg-logo="https://s2.loli.net/2024/08/12/9LJqQXbkuS82iAj.png" group-title="国际频道",CN
-https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
-#EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://s2.loli.net/2023/09/16/ZeMBk97GUhd1j2q.png",Россия 1 
-https://vgtrkregion.cdnvideo.ru/vgtrk/krasnodar/russia1sd/playlist_sdhigh.m3u8
-
 #EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://s2.loli.net/2024/08/12/kxQvgpfanZJCdUc.png",NTV 
 https://cdn2.skygo.mn/live/disk1/NTVHD/HLS-FTA/NTVHD.m3u8
 
@@ -208,15 +198,10 @@ https://cdn2.skygo.mn/live/disk1/NTVHD/HLS-FTA/NTVHD.m3u8
 #EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
-
-
 #EXTINF:-1 tvg-id="6141" group-title="国际频道" tvg-logo="https://s2.loli.net/2023/07/30/iGNJPKTXcU1nuW5.png",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://s2.loli.net/2023/09/19/2iB6v37Kc5xgDjz.png",Guardian TV
-https://rakuten-guardian-1-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://s2.loli.net/2023/09/19/yUAPNH26Sgzv3wI.jpg",AusBIZ
-https://ausbiztv-ausbiz-1-nz.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://s2.loli.net/2023/09/19/ix7k9zS3D28Na1L.png",GO USA
 https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
 
@@ -233,11 +218,11 @@ https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文台" tvg-logo="https://s2.loli.net/2024/07/14/QUzcGSDgbZ6eRFo.png" group-title="港澳频道",凤凰中文台
-https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 
 
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港台" tvg-logo="https://s2.loli.net/2023/01/07/gUnrS46sjVlCuwf.png" group-title="港澳频道",凤凰香港台
-http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
 
 
@@ -254,13 +239,13 @@ http://61.244.22.4/ch5/info_ch5.live/master.m3u8
 #EXTINF:-1 tvg-id="412" tvg-name="香港卫视" tvg-logo="https://s2.loli.net/2024/07/14/iRlzBkXdtCgPUVc.png" group-title="港澳频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://s2.loli.net/2023/08/06/dbWMTuQRxKsZ2y1.png" group-title="港澳频道",翡翠台
-http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
 
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="https://s2.loli.net/2024/07/14/TgfN2vtuHUJjOmP.png" group-title="港澳频道",TVB PLUS
 http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻台" tvg-logo="https://s2.loli.net/2024/07/14/1bi62wSfmyaIO7V.png" group-title="港澳频道",无线新闻台
-http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://s2.loli.net/2024/07/14/FSn9UsXYbgRxmyi.png" group-title="港澳频道",明珠台
 http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 
@@ -303,7 +288,7 @@ https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 
 
 #EXTINF:-1 tvg-id="6057" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/14/hFs1cYZekGojbQn.png",中天新闻
-http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/14/vjHASChzGsyBbM2.png",寰宇新闻台
 http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 #EXTINF:-1 tvg-id="6057" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/02/12/U6eKAZyfso3LOS1.png",中天亚洲台
