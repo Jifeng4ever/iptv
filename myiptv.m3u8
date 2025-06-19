@@ -1,21 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://s2.loli.net/2025/02/19/Thn67Bkam58t4iC.png",CNN
-http://doubleclicktv.live:80/70376812/52663544/1041
-
-#EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://s2.loli.net/2025/02/19/Thn67Bkam58t4iC.png",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 
 #EXTINF:-1 tvg-id="664" group-title="国际频道" tvg-logo="https://s2.loli.net/2022/10/05/deyuSkHN8pI7FDZ.jpg",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-
-#EXTINF:-1 tvg-id="664" group-title="国际频道" tvg-logo="https://s2.loli.net/2022/10/05/deyuSkHN8pI7FDZ.jpg",BBC News
-http://doubleclicktv.live/70376812/52663544/277195
-#EXTINF:-1 tvg-id="664" group-title="国际频道" tvg-logo="https://s2.loli.net/2024/07/15/sIBhzW13rcupDko.png",BBC News Asia Pacific
-http://doubleclicktv.live:80/70376812/52663544/1065
-#EXTINF:-1 tvg-id="664" group-title="国际频道" tvg-logo="https://s2.loli.net/2024/07/15/sIBhzW13rcupDko.png",BBC News Asia Pacific
-https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 
 #EXTINF:-1 tvg-id="664" group-title="国际频道" tvg-logo="https://s2.loli.net/2024/07/15/sIBhzW13rcupDko.png",BBC News Asia Pacific
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
@@ -29,14 +19,13 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 http://doubleclicktv.live/70376812/52663544/277180
 #EXTINF:-1 tvg-id="730" group-title="国际频道" tvg-logo="https://s2.loli.net/2023/07/30/v7HFn3PAJ5Tfpru.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
 #EXTINF:-1 tvg-id="742" group-title="国际频道" tvg-logo="https://s2.loli.net/2023/07/30/QO1UVGFkMI7vEwd.png",SKY News
-http://doubleclicktv.live/70376812/52663544/277190
-#EXTINF:-1 tvg-id="742" group-title="国际频道" tvg-logo="https://s2.loli.net/2023/07/30/QO1UVGFkMI7vEwd.png",SKY News
-http://extraott.com:80/live/6772191932/1654508883/191981.m3u8
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 tvg-id="6097" group-title="国际频道" tvg-logo="https://s2.loli.net/2024/07/15/PHQTWhJFVwd9B75.png",FOX NEWS
-http://doubleclicktv.live:80/70376812/52663544/1038
+https://haoyunlai.serv00.net/Smartv-1.php?id=foxnews_twn
 #EXTINF:-1 tvg-id="9999" tvg-name="FoxNews" tvg-logo="https://s2.loli.net/2024/01/11/ClWy73jbrhu5dRw.jpg" group-title="国际频道",Live Now FOX News
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="9999" tvg-name="RTNEWS" tvg-logo="https://s2.loli.net/2023/09/16/6hQ7VfNkPS4Jy23.png" group-title="国际频道", RT English
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 
