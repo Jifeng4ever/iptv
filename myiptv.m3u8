@@ -172,13 +172,12 @@ http://91.247.68.229:8000/play/Fashion/index.m3u8
 
 #EXTINF:-1 tvg-id="9999" tvg-name="Discovery" tvg-logo="https://s2.loli.net/2023/09/17/WymKkRhuMaQcYt7.png" group-title="国际频道",Discovery Channel
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="6166" group-title="台湾频道" tvg-logo="https://s2.loli.net/2023/09/16/YJZ1HL2KcBQIiVx.png",Discovery Asia
-http://extraott.com:80/live/6772191932/1654508883/191912.m3u8
-
-
+#EXTINF:-1 tvg-id="9999" tvg-name="Discovery" tvg-logo="https://s2.loli.net/2024/04/05/zJKROykLUCfbmF9.png" group-title="国际频道",NAT GEO Wild
+http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="Discovery" tvg-logo="https://s2.loli.net/2023/09/16/hH5ja3u7KIQrPMY.png" group-title="国际频道",Animal Planet
+http://143.244.60.30/Animal_Planet/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="Discovery" tvg-logo="https://s2.loli.net/2025/06/22/bONveUafqKhCg2z.png" group-title="国际频道",NBA
+http://fl5.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-id=7152"Animal Planet" tvg-name="Animal Planet" tvg-logo="https://s2.loli.net/2024/07/14/WvSY8XaAupIQoMg.png" group-title="国际频道",History
 https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
 
