@@ -162,11 +162,20 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="9999"group-title="国际频道" tvg-logo="https://s2.loli.net/2024/01/10/ZqTXR1LeoyQAd7O.png",BBC Arabic
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
 
+
+
+
+
+
 #EXTINF:-1 tvg-id="9999" tvg-name="FTV" tvg-logo="https://s2.loli.net/2024/02/07/pSY7gkbcC3BUQHE.png" group-title="国际频道",FashionTV
 https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="9999" tvg-name="FTV" tvg-logo="https://s2.loli.net/2024/02/07/pSY7gkbcC3BUQHE.png" group-title="国际频道",FashionTV
 http://91.247.68.229:8000/play/Fashion/index.m3u8
+
+
+
+
 
 
 
@@ -222,11 +231,6 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港台" tvg-logo="https://s2.loli.net/2023/01/07/gUnrS46sjVlCuwf.png" group-title="港澳频道",凤凰香港台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港台" tvg-logo="https://s2.loli.net/2023/01/07/gUnrS46sjVlCuwf.png" group-title="港澳频道",凤凰香港台
-https://ali.hlspull.yximgs.com/live/167_fhxg.flv
-
-
-
 
 #EXTINF:-1 tvg-id="9999" tvg-name="澳视澳门" tvg-logo="https://s2.loli.net/2024/08/12/pW9gEa6Cusmcq7w.png" group-title="港澳频道",澳视澳门
 http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
@@ -281,6 +285,8 @@ https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 
 
+
+
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻" group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/14/26wGiWDnBC9lNau.png",东森新闻
 https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
 #EXTINF:-1 tvg-id=7152"Animal Planet" tvg-name="Animal Planet" tvg-logo="https://s2.loli.net/2024/07/14/WvSY8XaAupIQoMg.png" group-title="台湾频道",History
@@ -293,12 +299,8 @@ https://s1.m16tv.cfd/aktv2/hbo/AKTV.m3u8
 http://extraott.com:80/live/6772191932/1654508883/191844.m3u8
 #EXTINF:-1 tvg-id="6170" group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/14/1Fz8fdpxbKUBcP2.png",DMAX
 http://extraott.com:80/live/6772191932/1654508883/191918.m3u8
-#EXTINF:-1 tvg-id="6057" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/14/hFs1cYZekGojbQn.png",中天新闻
-https://ali.hlspull.yximgs.com/live/167ztxw2.flv
-#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/07/14/vjHASChzGsyBbM2.png",寰宇新闻台
-https://ali.hlspull.yximgs.com/live/167_hyxw.flv
-#EXTINF:-1 tvg-id="6057" tvg-name="中天新闻"group-title="台湾频道" tvg-logo="https://s2.loli.net/2024/02/12/U6eKAZyfso3LOS1.png",中天亚洲台
-https://ali.hlspull.yximgs.com/live/167ztyz.flv
+
+
 
 
 
