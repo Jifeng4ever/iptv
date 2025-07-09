@@ -4,6 +4,7 @@
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 #EXTINF:-1 tvg-id="9999" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/02/19/Thn67Bkam58t4iC.png",CNN
 https://jmp2.uk/sam-GBBD8000016N.m3u8
+
 #EXTINF:-1 tvg-id="671" group-title="国际新闻" tvg-logo="https://s2.loli.net/2022/10/05/deyuSkHN8pI7FDZ.jpg",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="664" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/15/sIBhzW13rcupDko.png",BBC News Asia Pacific
@@ -22,13 +23,10 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 http://185.234.111.229:8000/play/a00g
 #EXTINF:-1 tvg-id="730" group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/07/30/v7HFn3PAJ5Tfpru.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="9999" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/06/22/lnEHfMqYXmoi8bQ.png",CTV News
-https://jmp2.uk/sam-CA1400004AE.m3u8
 #EXTINF:-1 tvg-id="6183" group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/07/30/AhWq7Yt2kTunEpB.jpg",Euronews English
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
 #EXTINF:-1 tvg-id="742" group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/07/30/QO1UVGFkMI7vEwd.png",SKY News
 https://jmp2.uk/sam-USBB52000022Q.m3u8
-
 #EXTINF:-1 tvg-id="734" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/14/yQNdIlzvH34BeXc.png",France24 English
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="7100" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/06/22/EdsU8qA9IH6g31z.jpg",ABC News Australia
@@ -37,8 +35,23 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 http://38.96.178.201:80/live/FOXNEWS/index.m3u8
 #EXTINF:-1 tvg-id="6097" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/15/PHQTWhJFVwd9B75.png",FOX NEWS
 https://fl3.moveonjoy.com/FOX_NEWS_CHANNEL/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="688" tvg-name="CNBC" tvg-logo="https://s2.loli.net/2024/02/07/FTWApVU613evKbf.png" group-title="国际新闻",CNBC
+http://fl5.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="331" group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/07/30/nQyJURF46m92cOh.png",NHK World
+https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
+#EXTINF:-1 tvg-id="7110" group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/09/16/Ps5UK3gqxpCej6a.png",NHK Premium
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
 
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="9999" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/06/22/lnEHfMqYXmoi8bQ.png",CTV News
+https://jmp2.uk/sam-CA1400004AE.m3u8
 #EXTINF:-1 tvg-id="9999" tvg-name="FoxNews" tvg-logo="https://s2.loli.net/2024/01/11/ClWy73jbrhu5dRw.jpg" group-title="国际新闻",Live Now FOX News
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="9999" tvg-name="RTNEWS" tvg-logo="https://s2.loli.net/2023/09/16/6hQ7VfNkPS4Jy23.png" group-title="国际新闻", RT English
@@ -62,8 +75,7 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 http://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
 
 
-#EXTINF:-1 tvg-id="688" tvg-name="CNBC" tvg-logo="https://s2.loli.net/2024/02/07/FTWApVU613evKbf.png" group-title="国际新闻",CNBC
-http://fl5.moveonjoy.com/CNBC/index.m3u8
+
 
 #EXTINF:-1 tvg-id="9999" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/01/10/mR3LTaBvAj1VO8t.png",Cheddar News
 https://livestream.chdrstatic.com/e1bced8988f6a21da2206247c69538b6d4b12898ae8245c3a72f57e21384ccba/localnow/localnowlive/cheddardigital/index.m3u8
@@ -72,9 +84,9 @@ https://livestream.chdrstatic.com/e1bced8988f6a21da2206247c69538b6d4b12898ae8245
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
 
 
-#EXTINF:-1 tvg-id="9999" tvg-name="GB News" tvg-logo="https://epg.112114.xyz/logo/GB-NEWS.png" group-title="国际新闻",GB News
+#EXTINF:-1 tvg-id="9999" tvg-name="GB News" tvg-logo="https://s2.loli.net/2025/07/09/KWIJ5x4DzQraCBc.jpg" group-title="国际新闻",GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
-#EXTINF:-1 tvg-id="9999" group-title="国际新闻" tvg-logo="https://epg.112114.xyz/logo/GB-NEWS.png",GB News
+#EXTINF:-1 tvg-id="9999" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/07/09/KWIJ5x4DzQraCBc.jpg",GB News
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="9999" group-title="国际新闻" tvg-logo="https://i.imgur.com/r8MmFRX.png",Afghanistan International
 https://hls.afintl.com/hls/stream.m3u8
@@ -88,10 +100,7 @@ https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/7345
 
 
 
-#EXTINF:-1 tvg-id="331" group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/07/30/nQyJURF46m92cOh.png",NHK World
-https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
-#EXTINF:-1 tvg-id="7110" group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/09/16/Ps5UK3gqxpCej6a.png",NHK Premium
-https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+
 
 
 
@@ -108,20 +117,18 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
 
 #EXTINF:-1 tvg-id="6140" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/14/ElkJXWse9dOpn5j.png",Bloomberg Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
-
-
-#EXTINF:-1 tvg-id="6140" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/01/09/V9ZeaE63GqisIU2.png",Bloomberg TV
+#EXTINF:-1 tvg-id="6188" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/01/09/V9ZeaE63GqisIU2.png",Bloomberg TV
 https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="9999" tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="国际新闻",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-
 #EXTINF:-1 tvg-id="9999" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/14/KOEwJHkFpc5buo9.jpg",i24 English
 https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-id="9999" group-title="国际新闻" tvg-logo="https://s2.loli.net/2022/10/07/yTv85QjWuNeGAbP.png",Press TV
 https://live.presstv.ir/hls/presstv.m3u8
 #EXTINF:-1 tvg-id="9999" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/01/10/CQ7cxM6nNHFEPsp.png",IRAN International
