@@ -4,7 +4,7 @@
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 #EXTINF:-1 tvg-id="9999" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/02/19/Thn67Bkam58t4iC.png",CNN
 https://jmp2.uk/sam-GBBD8000016N.m3u8
-#EXTINF:-1 tvg-id="664" group-title="国际新闻" tvg-logo="https://s2.loli.net/2022/10/05/deyuSkHN8pI7FDZ.jpg",BBC News
+#EXTINF:-1 tvg-id="671" group-title="国际新闻" tvg-logo="https://s2.loli.net/2022/10/05/deyuSkHN8pI7FDZ.jpg",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="664" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/15/sIBhzW13rcupDko.png",BBC News Asia Pacific
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
@@ -88,7 +88,7 @@ https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/7345
 
 
 
-#EXTINF:-1 tvg-id="6113" group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/07/30/nQyJURF46m92cOh.png",NHK World
+#EXTINF:-1 tvg-id="331" group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/07/30/nQyJURF46m92cOh.png",NHK World
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 #EXTINF:-1 tvg-id="7110" group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/09/16/Ps5UK3gqxpCej6a.png",NHK Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
@@ -169,15 +169,21 @@ http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 https://wikinew.newkso.ru/wiki/ustvtlc/mono.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="https://s2.loli.net/2023/09/17/WymKkRhuMaQcYt7.png" group-title="国际频道",Discovery Channel
 http://38.96.178.201:80/live/Discovery/index.m3u8
+
+
 #EXTINF:-1 tvg-id="9999" tvg-name="Discovery" tvg-logo="https://s2.loli.net/2025/07/08/W7TMgcdLKlabw1o.png" group-title="国际频道",National Geographic
 http://143.244.60.30/National_Geographic/index.m3u8
 #EXTINF:-1 tvg-id="9999" tvg-name="Discovery" tvg-logo="https://s2.loli.net/2025/07/08/fEwydagrKk3WNJ9.png" group-title="国际频道",NAT GEO Wild
 http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="7152"  tvg-name="History" tvg-logo="https://s2.loli.net/2024/07/14/WvSY8XaAupIQoMg.png" group-title="国际频道",History
 http://38.96.178.201:80/live/History/index.m3u8
 #EXTINF:-1 tvg-id="6039" tvg-name="Discovery" tvg-logo="https://s2.loli.net/2023/09/16/hH5ja3u7KIQrPMY.png" group-title="国际频道",Animal Planet
 http://38.96.178.201:80/live/AnimalPlanet/index.m3u8
-
+#EXTINF:-1 tvg-id="6158" tvg-name="Food Network" tvg-logo="https://s2.loli.net/2025/07/08/5oU9tPrxWpmcF3a.png" group-title="国际频道",Food Network
+http://38.96.178.201:80/live/FoodNetwork/index.m3u8
 
 
 
@@ -196,8 +202,7 @@ http://91.247.68.229:8000/play/Fashion/index.m3u8
 
 #EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://s2.loli.net/2025/07/08/cHCTKBFWY5RgAm6.png",TNT
 http://38.96.178.201:80/live/TNTHD/index.m3u8
-#EXTINF:-1 tvg-id="6158" tvg-name="Food Network" tvg-logo="https://s2.loli.net/2025/07/08/5oU9tPrxWpmcF3a.png" group-title="国际频道",Food Network
-http://38.96.178.201:80/live/FoodNetwork/index.m3u8
+
 #EXTINF:-1 tvg-id="9999" tvg-name="Discovery" tvg-logo="https://s2.loli.net/2025/07/08/TnyCQrgKdHqS3Y6.jpg" group-title="国际频道",Comedy Central
 http://38.96.178.201:80/live/ComedyCentral/index.m3u8
 
