@@ -47,7 +47,7 @@ https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlay
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="RTHK34" tvg-name="RTHK 34" tvg-logo="https://s2.loli.net/2024/08/16/WKZ39uxQPA7pcEe.png" group-title="香港",RTHK 34
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="RTHK35" tvg-name="RTHK 35" tvg-logo="https://s2.loli.net/2025/07/08/QO7WYx3TGCRAVlo.png" group-title="港澳频道",RTHK 35
+#EXTINF:-1 tvg-id="RTHK35" tvg-name="RTHK 35" tvg-logo="https://s2.loli.net/2025/07/08/QO7WYx3TGCRAVlo.png" group-title="香港",RTHK 35
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 
 
