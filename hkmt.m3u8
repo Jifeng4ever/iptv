@@ -127,7 +127,7 @@ http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 
 
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="台湾",民视
-rtmp://f13h.mine.nu/sat/tv051
+https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="台湾",台视
 rtmp://f13h.mine.nu/sat/tv071
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTV.png" group-title="台湾",中视
