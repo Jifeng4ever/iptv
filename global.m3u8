@@ -82,7 +82,7 @@ https://jmp2.uk/sam-CA1400004AE.m3u8
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="9999" tvg-name="RTNEWS" tvg-logo="https://s2.loli.net/2023/09/16/6hQ7VfNkPS4Jy23.png" group-title="国际新闻", RT English
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="9999" tvg-name="NBS News" tvg-logo="https://s2.loli.net/2025/07/10/djhQYFIBpoWrSE3.png" group-title="国际新闻", NBC News Now
+#EXTINF:-1 tvg-id="9999" tvg-name="NBS News" tvg-logo="https://s2.loli.net/2024/07/15/95y28cEu6tz7wW1.png" group-title="国际新闻", NBC News Now
 https://jmp2.uk/sam-GBBB1500004LG.m3u8
 #EXTINF:-1 tvg-id="9999" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/15/V61hGzOuKWJYXZM.png",CBS News
 http://fl3.moveonjoy.com/CBS_News/index.m3u8
@@ -298,8 +298,8 @@ http://143.244.60.30/ION_TV/index.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-id="9999" group-title="阿拉伯语" tvg-logo="https://s2.loli.net/2025/07/10/oGpWaFjACvseY5Z.png",Al-Jazeera Arabic
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:-1 tvg-id="9999" group-title="阿拉伯语" tvg-logo="https://s2.loli.net/2025/07/10/t6m5DBOLkHzqiF2.jpg",Qatar TV
 https://streamer1.qna.org.qa/148133273_live/148133273_63.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="9999" group-title="阿拉伯语" tvg-logo="https://s2.loli.net/2025/07/10/CPmKSrgXs6NEzwW.jpg",Al Mashhad
