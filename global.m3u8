@@ -183,8 +183,8 @@ http://38.96.178.201:80/live/FoodNetwork/index.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://s2.loli.net/2025/07/10/GP7Z8IATcsVkzRN.jpg",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://s2.loli.net/2025/07/10/nELrNJ7DKWFUTil.png",TRT 1
 http://185.234.111.229:8000/play/a00c
 #EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://s2.loli.net/2025/07/10/sbPUwCOZvX36qIS.png",Tele 1
