@@ -178,8 +178,7 @@ http://live4play.uk/livehttpplay?channel_id=20077
 http://live4play.uk/livehttpplay?channel_id=20080
 #EXTINF:-1 tvg-id="东森戏剧" tvg-name="东森戏剧" group-title="台湾",东森戏剧
 http://live4play.uk/livehttpplay?channel_id=20072
-#EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/meiyady.png" group-title="台湾",美亚电影
-http://ali.hlspull.yximgs.com/live/awei_mydy.flv
+
 #EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://live.fanmingming.cn/tv/民视新闻台.png" group-title="台湾",民视新闻台
 http://live4play.uk/livehttpplay?channel_id=20097
 #EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://live.fanmingming.cn/tv/民视台湾台.png" group-title="台湾",民视台湾台
