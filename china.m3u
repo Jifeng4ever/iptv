@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV1" tvg-logo="https://epg.51zmt.top:8001/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4K
+http://live.chinacert.cftest5.cn/nptv/cctv4k.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://171.118.162.149:9003/hls/1/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
