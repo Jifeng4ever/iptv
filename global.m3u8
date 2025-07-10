@@ -56,8 +56,8 @@ https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-id="9999" tvg-logo="https://s2.loli.net/2025/07/10/SMPL3wjeV62i7Qt.jpg" group-title="国际新闻",A News
+http://185.234.111.229:8000/play/a01k
 #EXTINF:-1 tvg-id="9999" tvg-logo="https://s2.loli.net/2025/07/10/vC3nTew6Axo741a.png" group-title="国际新闻",ABC News Live
 https://wikinew.newkso.ru/wiki/ustvabcnews/mono.m3u8
 #EXTINF:-1 tvg-id="9999" tvg-logo="https://s2.loli.net/2025/07/10/Kv6OlHMVQp4qbG1.png" group-title="国际新闻",C News
