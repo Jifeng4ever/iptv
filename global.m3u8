@@ -8,6 +8,8 @@ https://jmp2.uk/sam-GBBD8000016N.m3u8
 
 #EXTINF:-1 tvg-id="671" group-title="国际新闻" tvg-logo="https://s2.loli.net/2022/10/30/1IoQUHu7b2E9nXL.png",BBC One
 https://trn09.bozztv.com/gin-bbcone/index.m3u8
+#EXTINF:-1 tvg-id="671" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/07/11/YOZrGzSjlRA1aIo.png",BBC Two
+https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
 
 #EXTINF:-1 tvg-id="664" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/15/sIBhzW13rcupDko.png",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
@@ -40,14 +42,25 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau
 
 #EXTINF:-1 tvg-id="734" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/14/yQNdIlzvH34BeXc.png",France24 English
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-id="731" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/07/11/jePOCzmTbn9IZ1y.png",TV5 Monde Asie
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+#EXTINF:-1 tvg-id="731" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/07/11/jePOCzmTbn9IZ1y.png",TV5 Monde Asie
+https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
+#EXTINF:-1 tvg-id="7100" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/07/11/bkDCUcyBQJMZlOf.png",ABC TV
+https://c.mjh.nz/abc-vic.m3u8
 #EXTINF:-1 tvg-id="7100" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/06/22/EdsU8qA9IH6g31z.jpg",ABC News Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:-1 tvg-id="7100" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/06/22/EdsU8qA9IH6g31z.jpg",ABC News Australia
+https://c.mjh.nz/abc-news.m3u8
 #EXTINF:-1 tvg-id="6097" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/15/PHQTWhJFVwd9B75.png",FOX NEWS
 https://fl3.moveonjoy.com/FOX_NEWS_CHANNEL/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="688" tvg-name="CNBC" tvg-logo="https://s2.loli.net/2024/02/07/FTWApVU613evKbf.png" group-title="国际新闻",CNBC
 http://fl5.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="6113" group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/07/30/nQyJURF46m92cOh.png",NHK World
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
+#EXTINF:-1 tvg-id="6113" group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/07/30/nQyJURF46m92cOh.png",NHK World
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 tvg-id="7110" group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/09/16/Ps5UK3gqxpCej6a.png",NHK Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 tvg-id="6140" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/14/ElkJXWse9dOpn5j.png",Bloomberg Asia
@@ -104,8 +117,12 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 
 #EXTINF:-1 tvg-id="9999" tvg-name="GB News" tvg-logo="https://s2.loli.net/2025/07/09/KWIJ5x4DzQraCBc.jpg" group-title="国际新闻",GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="GB News" tvg-logo="https://s2.loli.net/2025/07/09/KWIJ5x4DzQraCBc.jpg" group-title="国际新闻",GB News
+https://jmp2.uk/sam-GBBB1600008R3.m3u8
 #EXTINF:-1 tvg-id="9999" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/07/09/KWIJ5x4DzQraCBc.jpg",GB News
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="9999" group-title="国际新闻" tvg-logo="https://i.imgur.com/r8MmFRX.png",Afghanistan International
 https://hls.afintl.com/hls/stream.m3u8
 
@@ -119,7 +136,7 @@ https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/7345
 #EXTINF:-1 tvg-id="9999" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/06/26/TUZxOgvEJz42N9V.jpg",ANN News
 https://s1.m16tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
 #EXTINF:-1 tvg-id="9999" group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/07/31/orLaDkZ5UC3RAzj.jpg",NTV News
-https://s1.m16tv.cfd/aktvjp/ntv/AKTV.m3u8
+https://ntv4.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="9999" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/07/05/UTVL6yXlAHeoZaD.png",TBS News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
 
@@ -181,6 +198,10 @@ https://wikinew.newkso.ru/wiki/ustvtlc/mono.m3u8
 http://38.96.178.201:80/live/AnimalPlanet/index.m3u8
 #EXTINF:-1 tvg-id="6114" tvg-name="MTV" tvg-logo="https://s2.loli.net/2024/01/09/62WAk5PLaGnMIt8.png" group-title="国际频道",MTV
 http://143.244.60.30/MTV/index.m3u8
+#EXTINF:-1 tvg-id="6114" tvg-name="MTV" tvg-logo="https://s2.loli.net/2024/01/09/62WAk5PLaGnMIt8.png" group-title="国际频道",MTV
+http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
+
+
 #EXTINF:-1 tvg-id="6141" group-title="国际频道" tvg-logo="https://s2.loli.net/2023/07/30/iGNJPKTXcU1nuW5.png",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 tvg-id="6152" tvg-name="HBO" tvg-logo="https://s2.loli.net/2024/02/20/AjoJ9szDRSCMFLg.png" group-title="国际频道",HBO 
@@ -246,6 +267,8 @@ http://143.244.60.30/HBO_2/index.m3u8
 
 #EXTINF:-1 tvg-id="9999" tvg-name="BBC America" tvg-logo="https://s2.loli.net/2025/07/08/pWlz46FfeIutZQr.jpg" group-title="国际频道",BBC America
 http://38.96.178.201:80/live/BBCAmerica/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="BBC America" tvg-logo="https://s2.loli.net/2025/07/08/pWlz46FfeIutZQr.jpg" group-title="国际频道",BBC America
+https://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
 
 #EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://s2.loli.net/2024/08/12/kxQvgpfanZJCdUc.png",NTV 
 https://cdn2.skygo.mn/live/disk1/NTVHD/HLS-FTA/NTVHD.m3u8
@@ -315,6 +338,8 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic
 
 #EXTINF:-1 tvg-id="9999" group-title="阿拉伯语" tvg-logo="https://s2.loli.net/2024/07/14/BWKsEnQymT3VfG9.jpg",RT Arabic
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="阿拉伯语" tvg-logo="https://s2.loli.net/2025/07/11/Elx5tyI8NBRXo67.png",France24 Arabic
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
 
 
 
