@@ -126,9 +126,6 @@ http://8.138.7.223/tv/lotustv.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Global2.png" group-title="台湾频道",寰宇新闻
-http://222.128.55.152:9080/live/hy.m3u8
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Global2.png" group-title="台湾频道",寰宇新闻
 http://jnzq.ohoyee.com:9080/live/hy.m3u8
 
