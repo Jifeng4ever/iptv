@@ -1,9 +1,9 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="6023" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/02/19/Thn67Bkam58t4iC.png",CNN international 
+#EXTINF:-1 tvg-id="6023" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/02/19/Thn67Bkam58t4iC.png",CNN 
 https://jmp2.uk/sam-GBBD8000016N.m3u8
-#EXTINF:-1 tvg-id="6023" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/02/19/Thn67Bkam58t4iC.png",CNN international 
+#EXTINF:-1 tvg-id="6023" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/02/19/Thn67Bkam58t4iC.png",CNN 
 http://143.244.60.30/CNN_INTERNATIONAL/index.m3u8
 
 
