@@ -6,8 +6,7 @@ https://jmp2.uk/sam-GBBD8000016N.m3u8
 #EXTINF:-1 tvg-id="6023" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/02/19/Thn67Bkam58t4iC.png",CNN international 
 http://143.244.60.30/CNN_INTERNATIONAL/index.m3u8
 
-#EXTINF:-1 tvg-id="9999" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/07/13/aBX12pKgFjwzWEi.png",CNN GO
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+
 
 
 #EXTINF:-1 tvg-id="671" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/07/11/YOZrGzSjlRA1aIo.png",BBC Two
@@ -95,10 +94,13 @@ https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
 
 
-#EXTINF:-1 group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/07/13/9Uk6pHcCXJajPxL.png",ABC (WABC)
+#EXTINF:-1 tvg-id="9999" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/07/13/9Uk6pHcCXJajPxL.png",ABC
 http://143.244.60.30/ABC_EAST/index.m3u8
 
 
+
+#EXTINF:-1 tvg-id="9999" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/07/13/aBX12pKgFjwzWEi.png",CNN GO
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 #EXTINF:-1 tvg-id="9999" group-title="国际新闻" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png",C-SPAN
 http://143.244.60.30/C-SPAN/index.m3u8
 #EXTINF:-1 tvg-id="9999" group-title="国际新闻" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png",CBS
@@ -227,14 +229,15 @@ https://cdn2.skygo.mn/live/disk1/Eagle/HLS-FTA/Eagle.m3u8
 #EXTINF:-1 tvg-id="6152" tvg-name="HBO" tvg-logo="https://s2.loli.net/2025/07/13/XqtvhmBFHbRKSeY.png" group-title="HBO",HBO 
 http://143.244.60.30/HBO/index.m3u8
 
-#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="https://s2.loli.net/2025/07/13/s52NBqeHgLZnCrv.png" group-title="HBO",HBO Family
+#EXTINF:-1 tvg-id="6155" tvg-name="HBO" tvg-logo="https://s2.loli.net/2025/07/13/s52NBqeHgLZnCrv.png" group-title="HBO",HBO Family
 http://143.244.60.30/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="https://s2.loli.net/2025/07/13/T89JeWQB3todf2V.png" group-title="HBO",HBO Zone
+#EXTINF:-1 tvg-id="6152" tvg-name="HBO" tvg-logo="https://s2.loli.net/2025/07/13/T89JeWQB3todf2V.png" group-title="HBO",HBO Zone
 http://143.244.60.30/HBO_ZONE/index.m3u8
-#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="https://s2.loli.net/2025/07/13/ILS3cRHNuZYq7W2.png" group-title="HBO",HBO 2
+#EXTINF:-1 tvg-id="6154" tvg-name="HBO" tvg-logo="https://s2.loli.net/2025/07/13/ILS3cRHNuZYq7W2.png" group-title="HBO",HBO 2
 http://143.244.60.30/HBO_2/index.m3u8
 #EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="https://s2.loli.net/2025/07/13/8JfBq6PXvYhxRme.png" group-title="HBO",HBO Comedy
 http://143.244.60.30/HBO_COMEDY/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="https://s2.loli.net/2025/07/13/edwqsxm4hC7ABzQ.png" group-title="HBO",Love Nature
