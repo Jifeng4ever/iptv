@@ -1,28 +1,20 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="6023" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/02/19/Thn67Bkam58t4iC.png",CNN
-https://jmp2.uk/sam-GBBD8000016N.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 #EXTINF:-1 tvg-id="6023" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/02/19/Thn67Bkam58t4iC.png",CNN
 http://143.244.60.30/CNN_INTERNATIONAL/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="664" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/15/sIBhzW13rcupDko.png",BBC News
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="664" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/15/sIBhzW13rcupDko.png",BBC News
+
+#EXTINF:-1 tvg-id="664" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/15/sIBhzW13rcupDko.png",BBC World News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 tvg-id="664" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/15/sIBhzW13rcupDko.png",BBC News
-https://jmp2.uk/sam-US4000033L.m3u8
-#EXTINF:-1 tvg-id="664" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/15/sIBhzW13rcupDko.png",BBC News
-https://i.mjh.nz/.r/bbc-news.m3u8
-#EXTINF:-1 tvg-id="664" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/15/sIBhzW13rcupDko.png",BBC News
+#EXTINF:-1 tvg-id="664" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/15/sIBhzW13rcupDko.png",BBC World News
 http://143.244.60.30/BBC_WORLD_NEWS/index.m3u8
-
-
-
-
-
+#EXTINF:-1 tvg-id="664" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/07/13/C4VwaK5FzbihqXQ.png",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 
 
@@ -64,8 +56,7 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 https://c.mjh.nz/abc-news.m3u8
 #EXTINF:-1 tvg-id="6097" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/07/13/vZcHWrOk4qXSjGh.png",FOX NEWS
 https://fl3.moveonjoy.com/FOX_NEWS_CHANNEL/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="6097" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/07/13/vZcHWrOk4qXSjGh.png",FOX News Channel
-http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/267.m3u8
+
 
 #EXTINF:-1 tvg-id="688" tvg-name="CNBC" tvg-logo="https://s2.loli.net/2025/07/13/NVwpYOg9BZRCFfm.png" group-title="国际新闻",CNBC
 http://fl5.moveonjoy.com/CNBC/index.m3u8
