@@ -2,33 +2,14 @@
 
 #EXTINF:-1 tvg-id="6023" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/02/19/Thn67Bkam58t4iC.png",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
-#EXTINF:-1 tvg-id="6023" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/02/19/Thn67Bkam58t4iC.png",CNN
-http://143.244.60.30/CNN_INTERNATIONAL/index.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-id="664" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/15/sIBhzW13rcupDko.png",BBC World News
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 tvg-id="664" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/15/sIBhzW13rcupDko.png",BBC World News
-http://143.244.60.30/BBC_WORLD_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="664" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/07/13/C4VwaK5FzbihqXQ.png",BBC News
+#EXTINF:-1 tvg-id="664" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/15/sIBhzW13rcupDko.png",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="6139" group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/09/16/Em2vYkUwX5u4NCq.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="7183" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/14/ZvSIlLhHJGy9PDw.png",AL Jazeera
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="730" group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/07/30/v7HFn3PAJ5Tfpru.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="6183" group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/07/30/AhWq7Yt2kTunEpB.jpg",Euronews English
