@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.postimg.cc/NjKNmJ39/M04Qd-Ozt-400x400.jpg",CNN Espanol
+#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.postimg.cc/fbrSX5h7/xia-zai.png",TV Chile Channel
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.postimg.cc/vmBGrsQq/CGTN-Espanol.png",CGTN Espanol
 https://tv.iill.top/CGTN/cgtn_espanol
@@ -17,10 +17,14 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_2300.m3u8
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.postimg.cc/Z5fx78S0/channels4-profile.jpg",Euronews Espanol
+https://live20.bozztv.com/akamaissh101/ssh101/rctvhdtra/playlist.m3u8
 
+#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.postimg.cc/5Ny05LnB/channels4-profile-(1).jpg",24 Horas
+https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
 
-
-
+#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png",24 Horas international
+https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
 
 #EXTINF:-1 tvg-id="6023" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/02/19/Thn67Bkam58t4iC.png",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
