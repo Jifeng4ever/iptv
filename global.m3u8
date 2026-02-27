@@ -11,6 +11,8 @@ https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveintern
 
 #EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.postimg.cc/0QPzmNtB/Chile-TV.png",TV Chile Channel
 https://v2.tustreaming.cl/chilechannel/index.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.postimg.cc/660vYvgr/images.png",CNN Chile
+http://104.250.145.6/livehttpplay?channel_id=16563
 
 #EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.postimg.cc/vZXYjvX3/Logo-Canal-24-Horas.png",24 Horas Chile
 http://104.250.128.34/livehttpplay?channel_id=23526
@@ -49,6 +51,8 @@ https://jmp2.uk/rok-6183f9f73a64394cf3c55690605af2a7.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="7183" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/14/ZvSIlLhHJGy9PDw.png",AL Jazeera
 https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="7183" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/14/ZvSIlLhHJGy9PDw.png",AL Jazeera
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 #EXTINF:-1 tvg-id="730" group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/07/30/v7HFn3PAJ5Tfpru.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="6183" group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/07/30/AhWq7Yt2kTunEpB.jpg",Euronews English
