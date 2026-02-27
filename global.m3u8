@@ -1,12 +1,13 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.postimg.cc/5Ny05LnB/channels4-profile-(1).jpg",24 Horas
+#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png",24 Horas
 https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
-
-#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png",24 Horas international
+#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png",24 Horas
 https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
 
+#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.postimg.cc/MZ50KCsY/TVE-Internacional-2026-svg.png",TVE International 
+https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8
 
 #EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.postimg.cc/fbrSX5h7/xia-zai.png",TV Chile Channel
 https://v2.tustreaming.cl/chilechannel/index.m3u8
