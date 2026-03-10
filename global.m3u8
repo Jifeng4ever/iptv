@@ -27,43 +27,6 @@ http://cdn.163189.xyz/163189/now
 
 
 
-#EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Unique1.png" group-title="台湾频道",非凡新闻
-http://iptv.4666888.xyz/iptv2A.php?id=44
-
-#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png",24 Horas
-https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
-#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png",24 Horas
-https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
-
-#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.postimg.cc/MZ50KCsY/TVE-Internacional-2026-svg.png",TVE International 
-https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8
-
-#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.postimg.cc/0QPzmNtB/Chile-TV.png",TV Chile Channel
-https://v2.tustreaming.cl/chilechannel/index.m3u8
-#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.postimg.cc/660vYvgr/images.png",CNN Chile
-http://104.250.145.6/livehttpplay?channel_id=16563
-
-#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.postimg.cc/vZXYjvX3/Logo-Canal-24-Horas.png",24 Horas Chile
-http://104.250.128.34/livehttpplay?channel_id=23526
-
-#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.postimg.cc/vmBGrsQq/CGTN-Espanol.png",CGTN Espanol
-https://tv.iill.top/CGTN/cgtn_espanol
-#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.postimg.cc/CMvRBSbm/RT.png",RT Espanol
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://s2.loli.net/2024/01/10/ephBZXPTI3jLrGa.png",DW Espanol
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.postimg.cc/3xZwj12N/France24.png",France24 Espanol
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_2300.m3u8
-#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.postimg.cc/SNZprPJy/estrella-news-1920x1920-2.jpg",Estrella News
-https://estrella-news-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.postimg.cc/Z5fx78S0/channels4-profile.jpg",Euronews Espanol
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8?ads.vf=DLlKFAN37a8
-
-#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.imgur.com/oo5vDBv.png",NCTV
-https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
-
-
 
 
 
@@ -117,11 +80,43 @@ https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3
 #EXTINF:-1 tvg-id="9999" tvg-name="RTNEWS" tvg-logo="https://s2.loli.net/2023/09/16/6hQ7VfNkPS4Jy23.png" group-title="国际新闻", RT English
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="9999" tvg-name="NBS News" tvg-logo="https://s2.loli.net/2024/07/15/95y28cEu6tz7wW1.png" group-title="国际新闻", NBC News Now
-https://jmp2.uk/sam-GBBB1500004LG.m3u8
+https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 
 
 
 
+#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png",24 Horas
+https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png",24 Horas
+https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
+
+#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.postimg.cc/MZ50KCsY/TVE-Internacional-2026-svg.png",TVE International 
+https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8
+
+#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.postimg.cc/0QPzmNtB/Chile-TV.png",TV Chile Channel
+https://v2.tustreaming.cl/chilechannel/index.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.postimg.cc/660vYvgr/images.png",CNN Chile
+http://104.250.145.6/livehttpplay?channel_id=16563
+
+#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.postimg.cc/vZXYjvX3/Logo-Canal-24-Horas.png",24 Horas Chile
+http://104.250.128.34/livehttpplay?channel_id=23526
+
+#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.postimg.cc/vmBGrsQq/CGTN-Espanol.png",CGTN Espanol
+https://tv.iill.top/CGTN/cgtn_espanol
+#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.postimg.cc/CMvRBSbm/RT.png",RT Espanol
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://s2.loli.net/2024/01/10/ephBZXPTI3jLrGa.png",DW Espanol
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.postimg.cc/3xZwj12N/France24.png",France24 Espanol
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.postimg.cc/SNZprPJy/estrella-news-1920x1920-2.jpg",Estrella News
+https://estrella-news-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.postimg.cc/Z5fx78S0/channels4-profile.jpg",Euronews Espanol
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8?ads.vf=DLlKFAN37a8
+
+#EXTINF:-1 tvg-id="9999" group-title="西语频道" tvg-logo="https://i.imgur.com/oo5vDBv.png",NCTV
+https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
 
 
 
@@ -338,7 +333,7 @@ http://38.96.178.201:80/live/BBCAmerica/index.m3u8
 
 #EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://s2.loli.net/2024/08/12/kxQvgpfanZJCdUc.png",NTV 
 https://cdn2.skygo.mn/live/disk1/NTVHD/HLS-FTA/NTVHD.m3u8
-#EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png",KBS World
+#EXTINF:-1 tvg-id="9999" group-title="国际频道" tvg-logo="https://i.postimg.cc/90YQPSsz/unnamed-(1).jpg",KBS World
 http://mytv.dothome.co.kr/ch/catv/7.php
 
 
