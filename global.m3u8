@@ -7,21 +7,21 @@
 
 
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港频道",凤凰资讯台
-https://flv-play.clouda.com/live/fhzx-gCDIOsNFJ7DX5OI8hsebeQNHPm66LAMZgmIcGYcfIIEzXWKCVG2cQgbZdRq2aUVqJR.flv
+https://cdn.qd.je/163189.php?id=fhzx
 
 
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文台" tvg-logo="https://s2.loli.net/2024/07/14/QUzcGSDgbZ6eRFo.png" group-title="香港频道",凤凰中文台
-https://flv-play.clouda.com/live/fhzw-6zSJoUiicyU3ovDlMvflVRLQlVCMRCARnyJ0NPlfcs3eWJNeJSDRMAz4VgeQV3Diy6.flv
+https://cdn.qd.je/163189.php?id=fhzw
 
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港台" tvg-logo="https://s2.loli.net/2023/01/07/gUnrS46sjVlCuwf.png" group-title="香港频道",凤凰香港台
-https://flv-play.clouda.com/live/fhxg-s6ZqbJPCkU54D3ojHvlJm4el9wbnzF1VJ6J0oPumsZIfuPtYq1enmIhy43vWcUaaPf4U2xRRWNGOXX5BiusMXxxQ.flv
+https://cdn.qd.je/163189.php?id=fhhk
 
 #EXTINF:-1 tvg-id="120" tvg-name="翡翠台" tvg-logo="https://s2.loli.net/2023/08/06/dbWMTuQRxKsZ2y1.png" group-title="香港频道",翡翠台
 http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
 
 
 #EXTINF:-1 tvg-id="123" tvg-name="无线新闻台" tvg-logo="https://s2.loli.net/2024/07/14/1bi62wSfmyaIO7V.png" group-title="香港频道",无线新闻台
-http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
+https://cdn.qd.je/163189.php?id=wxxw
 
 
 #EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://s2.loli.net/2024/07/14/ZourSAGYhHiNTQW.png" group-title="香港频道",RTHK 31
