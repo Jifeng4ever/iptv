@@ -3,6 +3,12 @@
 
 
 
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港频道",凤凰资讯台
+http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
+
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文台" tvg-logo="https://s2.loli.net/2024/07/14/QUzcGSDgbZ6eRFo.png" group-title="香港频道",凤凰中文台
+http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
+
 
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港频道",凤凰资讯台
 https://cdn.qd.je/163189.php?id=fhzx
@@ -96,6 +102,8 @@ https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="249" group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/07/30/QO1UVGFkMI7vEwd.png",SKY News
 https://jmp2.uk/sam-USBB52000022Q.m3u8
+#EXTINF:-1 tvg-id="249" group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/07/30/QO1UVGFkMI7vEwd.png",SKY News
+https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV35.m3u8
 
 
 
