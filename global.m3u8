@@ -41,16 +41,36 @@ http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 
 
+
+
+
+
+
 #EXTINF:-1 tvg-id="9999" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视频道",CCTV-4中文国际
-http://207.56.13.146:81/cdnlive/cctv4.m3u8
+http://119.233.255.62:1234/631780421
 #EXTINF:-1 tvg-id="9999" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视频道",CCTV-5体育
-http://60.10.139.113:8801/hls/5/index.m3u8
+http://119.233.255.62:1234/641886683
 
 #EXTINF:-1 tvg-id="9999" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视频道",CCTV-13新闻
-http://207.56.13.146:81/cdnlive/cctv13.m3u8
+http://119.233.255.62:1234/608807423
 
 
-
+#EXTINF:-1 tvg-id="9999" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E.png" group-title="港台频道",中視新聞
+http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-id="9999" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="港台频道",中天新聞
+http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-id="9999"  tvg-logo="https://epg.112114.xyz/logo/NOW%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="港台频道",NOW新闻台
+https://cdn.qd.je/163189/now
+#EXTINF:-1 tvg-id="9999" tvg-logo="https://epg.112114.xyz/logo/%E9%8F%A1%E9%9B%BB%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="港台频道",Mnews鏡新闻
+http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-id="9999" tvg-logo="https://epg.112114.xyz/logo/%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="港台频道",東森新聞
+http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-id="9999" tvg-logo="https://epg.112114.xyz/logo/%E8%8F%AF%E8%A6%96%E6%96%B0%E8%81%9E.png" group-title="港台频道",華視新聞
+http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-id="9999" tvg-logo="https://epg.112114.xyz/logo/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="港台频道",民視新聞台
+http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-id="9999" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%89%E7%AB%8B%E6%96%B0%E8%81%9EiNEWS.png" group-title="港台频道",三立新聞iNEWS
+http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1784702901150
 
 
 
