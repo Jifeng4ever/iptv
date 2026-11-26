@@ -2,14 +2,6 @@
 
 
 
-
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台频道",凤凰资讯台
-http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
-
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文台" tvg-logo="https://s2.loli.net/2024/07/14/QUzcGSDgbZ6eRFo.png" group-title="港台频道",凤凰中文台
-http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
-
-
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台频道",凤凰资讯台
 https://cdn.qd.je/163189.php?id=fhzx
 
@@ -26,7 +18,6 @@ https://cdn3.indevs.in/stream/tvb/fct/
 
 #EXTINF:-1 tvg-id="123" tvg-name="无线新闻台" tvg-logo="https://s2.loli.net/2024/07/14/1bi62wSfmyaIO7V.png" group-title="港台频道",无线新闻台
 https://cdn.qd.je/163189.php?id=wxxw
-
 
 
 
@@ -75,24 +66,29 @@ https://cdn.qd.je/163189/chu
 
 
 
-
+#EXTINF:-1 tvg-id="9999" tvg-logo="https://epg.112114.xyz/logo/%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="港台频道",東森新聞
+https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
 #EXTINF:-1 tvg-id="9999" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E.png" group-title="港台频道",中視新聞
-http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1784702901150
+https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
 #EXTINF:-1 tvg-id="9999" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="港台频道",中天新聞
-http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1784702901150
-#EXTINF:-1 tvg-id="9999"  tvg-logo="https://epg.112114.xyz/logo/NOW%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="港台频道",NOW新闻台
-https://cdn.qd.je/163189/now
+https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-logo="https://epg.112114.xyz/logo/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="港台频道",民視新聞台
+https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-logo="https://epg.112114.xyz/logo/%E8%8F%AF%E8%A6%96%E6%96%B0%E8%81%9E.png" group-title="港台频道",華視新聞
+https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="9999" tvg-logo="https://epg.112114.xyz/logo/%E9%8F%A1%E9%9B%BB%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="港台频道",Mnews鏡新闻
 http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1784702901150
-#EXTINF:-1 tvg-id="9999" tvg-logo="https://epg.112114.xyz/logo/%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="港台频道",東森新聞
-http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1784702901150
-#EXTINF:-1 tvg-id="9999" tvg-logo="https://epg.112114.xyz/logo/%E8%8F%AF%E8%A6%96%E6%96%B0%E8%81%9E.png" group-title="港台频道",華視新聞
-http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1784702901150
-#EXTINF:-1 tvg-id="9999" tvg-logo="https://epg.112114.xyz/logo/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="港台频道",民視新聞台
-http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1784702901150
+
+
 
 #EXTINF:-1 tvg-id="9999" tvg-logo="https://i.postimg.cc/vBfxjNGT/SETN-logo.png" group-title="港台频道",三立新聞iNEWS
-http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1784702901150
+https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
 
 
 
@@ -122,23 +118,16 @@ http://119.233.255.62:1234/608807423
 
 
 #EXTINF:-1 tvg-id="1446" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/02/19/Thn67Bkam58t4iC.png",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
-#EXTINF:-1 tvg-id="1446" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/02/19/Thn67Bkam58t4iC.png",CNN
-http://lordstreams.live:80/Alicia42/1915991510/277193
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="1446" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/02/19/Thn67Bkam58t4iC.png",CNN
 https://jmp2.uk/stvp-GBBD8000016N
-#EXTINF:-1 tvg-id="1446" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/02/19/Thn67Bkam58t4iC.png",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+
 
 
 
 
 #EXTINF:-1 tvg-id="226" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/15/sIBhzW13rcupDko.png",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="226" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/15/sIBhzW13rcupDko.png",BBC News
-https://jmp2.uk/rok-6183f9f73a64394cf3c55690605af2a7.m3u8
-#EXTINF:-1 tvg-id="226" group-title="国际新闻" tvg-logo="https://s2.loli.net/2024/07/15/sIBhzW13rcupDko.png",BBC News
-http://lordstreams.live:80/Alicia42/1915991510/277195
 
 
 
